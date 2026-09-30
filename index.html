@@ -90,7 +90,7 @@
         </div>
 
         <div class="cards" aria-label="단가표와 영상 메뉴">
-          <article class="card card-action-card">
+          <article class="card card-action-card" data-open-price-modal>
             <button class="card-hit" type="button" data-open-price-modal aria-label="부품 매입 단가표 시세표 보기"></button>
             <span class="number">01</span>
             <h2>부품 매입 단가표</h2>
@@ -98,7 +98,7 @@
             <a href="#parts-price" data-open-price-modal>단가표 보기</a>
           </article>
 
-          <article class="card card-action-card">
+          <article class="card card-action-card" data-open-price-modal>
             <button class="card-hit" type="button" data-open-price-modal aria-label="불량 매입 단가표 시세표 보기"></button>
             <span class="number">02</span>
             <h2>불량 매입 단가표</h2>
@@ -486,6 +486,7 @@
     document.querySelectorAll("[data-open-price-modal]").forEach((button) => {
       button.addEventListener("click", (event) => {
         event.preventDefault();
+        event.stopPropagation();
         openPriceModal();
       });
     });
