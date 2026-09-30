@@ -16,8 +16,8 @@
       </a>
 
       <nav class="nav-menu" aria-label="주요 메뉴">
-        <a href="#parts-price" data-open-price-modal>매입 단가표</a>
-        <a href="#parts-price" data-open-price-modal>불량매입단가표</a>
+        <a href="#parts-price">매입 단가표</a>
+        <a href="#faulty-price">불량매입단가표</a>
         <a href="#process-title">매입절차</a>
         <a href="#security-title">데이터 파기</a>
         <a href="#faq">자주묻는질문</a>
@@ -90,20 +90,18 @@
         </div>
 
         <div class="cards" aria-label="단가표와 영상 메뉴">
-          <article class="card card-action-card">
-            <button class="card-hit" type="button" data-open-price-modal aria-label="부품 매입 단가표 시세표 보기"></button>
+          <article class="card">
             <span class="number">01</span>
             <h2>부품 매입 단가표</h2>
             <p>CPU, 메모리, 그래픽카드, SSD, HDD 등 정상 작동 부품의 기준 단가를 확인하세요.</p>
-            <a href="#parts-price" data-open-price-modal>단가표 보기</a>
+            <a href="#parts-price">단가표 보기</a>
           </article>
 
-          <article class="card card-action-card">
-            <button class="card-hit" type="button" data-open-price-modal aria-label="불량 매입 단가표 시세표 보기"></button>
+          <article class="card">
             <span class="number">02</span>
             <h2>불량 매입 단가표</h2>
             <p>전원 불량, 파손, 인식 불가 등 상태별 불량 부품의 매입 기준을 확인하세요.</p>
-            <a href="#parts-price" data-open-price-modal>불량 단가 보기</a>
+            <a href="#faulty-price">불량 단가 보기</a>
           </article>
 
           <article class="card video-card">
@@ -300,128 +298,6 @@
       </div>
     </div>
   </footer>
-
-  <div class="price-modal" id="parts-price" aria-hidden="true">
-    <div class="price-modal__backdrop" data-close-price-modal></div>
-    <section class="price-modal__panel" role="dialog" aria-modal="true" aria-labelledby="parts-price-title">
-      <button class="price-modal__close" type="button" data-close-price-modal aria-label="시세표 닫기"></button>
-
-      <div class="price-modal__head">
-        <div>
-          <p class="price-modal__eyebrow">PARTS PRICE TABLE</p>
-          <h2 id="parts-price-title">부품 매입 단가표</h2>
-        </div>
-        <p>편집하기를 누르면 표 안의 글자와 금액을 직접 수정할 수 있습니다.</p>
-      </div>
-
-      <div class="price-sheet" data-price-sheet>
-        <div class="price-sheet__top">
-          <div>
-            <p class="price-sheet__label">시세표</p>
-            <h3>2026년 08월 25일 컴퓨터류 시세표</h3>
-            <p class="price-sheet__date">2026. 08. 25</p>
-          </div>
-          <div class="price-sheet__actions" aria-label="시세표 편집 도구">
-            <button type="button" data-price-edit>편집하기</button>
-            <button type="button" data-price-save>저장</button>
-            <button type="button" data-price-reset>초기화</button>
-          </div>
-        </div>
-
-        <div class="price-sheet__brand">
-          <strong>TGY</strong>
-          <span>www.tgy.kr</span>
-          <b>컴퓨터류 시세표</b>
-        </div>
-
-        <div class="price-sheet__tables">
-          <table class="editable-price-table">
-            <thead>
-              <tr>
-                <th>구분</th>
-                <th>품목</th>
-                <th>kg/EA</th>
-                <th>시세가</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr><th rowspan="3">BOARD</th><td data-editable>H110 / B150 / B250 메인보드</td><td data-editable>EA</td><td data-editable>16,000</td></tr>
-              <tr><td data-editable>H310 / H410 메인보드</td><td data-editable>EA</td><td data-editable>13,000</td></tr>
-              <tr><td data-editable>AMD B450</td><td data-editable>EA</td><td data-editable>5,000</td></tr>
-              <tr><th rowspan="5">NOTE BOOK</th><td data-editable>노트북 14인치 이하</td><td data-editable>EA</td><td data-editable>11,000</td></tr>
-              <tr><td data-editable>노트북 15인치 이상</td><td data-editable>EA</td><td data-editable>8,000</td></tr>
-              <tr><td data-editable>노트북 파손</td><td data-editable>EA</td><td data-editable>5,000</td></tr>
-              <tr><td data-editable>i5/i7급 상태 양호</td><td data-editable>EA</td><td data-editable>14,000</td></tr>
-              <tr><td data-editable>i5/i7급 상태 하급</td><td data-editable>EA</td><td data-editable>11,000</td></tr>
-              <tr><th rowspan="7">SSD / M2</th><td data-editable>SSD/M2 32G</td><td data-editable>EA</td><td data-editable>1,500</td></tr>
-              <tr><td data-editable>SSD/M2 64G</td><td data-editable>EA</td><td data-editable>2,000</td></tr>
-              <tr><td data-editable>SSD/M2 128G</td><td data-editable>EA</td><td data-editable>6,500</td></tr>
-              <tr><td data-editable>SSD/M2 256G</td><td data-editable>EA</td><td data-editable>15,000</td></tr>
-              <tr><td data-editable>SSD/M2 512G</td><td data-editable>EA</td><td data-editable>30,000</td></tr>
-              <tr><td data-editable>SSD/M2 1T</td><td data-editable>EA</td><td data-editable>55,000</td></tr>
-              <tr><td data-editable>SSD/M2 2T</td><td data-editable>EA</td><td data-editable>115,000</td></tr>
-              <tr><th rowspan="11">AGP</th><td data-editable>GTX 450/440/550/950</td><td data-editable>EA</td><td data-editable>7,000</td></tr>
-              <tr><td data-editable>GTX 650/630</td><td data-editable>EA</td><td data-editable>7,000</td></tr>
-              <tr><td data-editable>GTX 750/750 Ti</td><td data-editable>EA</td><td data-editable>10,000</td></tr>
-              <tr><td data-editable>GTX 950</td><td data-editable>EA</td><td data-editable>14,000</td></tr>
-              <tr><td data-editable>GTX 960</td><td data-editable>EA</td><td data-editable>18,000</td></tr>
-              <tr><td data-editable>GTX 1050 Ti</td><td data-editable>EA</td><td data-editable>38,000</td></tr>
-              <tr><td data-editable>GTX 1060</td><td data-editable>EA</td><td data-editable>21,000</td></tr>
-              <tr><td data-editable>GTX 1070 / 1070 Ti</td><td data-editable>EA</td><td data-editable>17,000</td></tr>
-              <tr><td data-editable>RTX 2060</td><td data-editable>EA</td><td data-editable>50,000</td></tr>
-              <tr><td data-editable>RTX 3060</td><td data-editable>EA</td><td data-editable>51,000</td></tr>
-              <tr><td data-editable>RTX 3070 Ti</td><td data-editable>EA</td><td data-editable>110,000</td></tr>
-            </tbody>
-          </table>
-
-          <table class="editable-price-table">
-            <thead>
-              <tr>
-                <th>구분</th>
-                <th>품목</th>
-                <th>kg/EA</th>
-                <th>시세가</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr><th rowspan="9">SCRAP</th><td data-editable>PC 본체</td><td data-editable>EA</td><td data-editable>9,700</td></tr>
-              <tr><td data-editable>MEMORY 일반</td><td data-editable>KG</td><td data-editable>191,000</td></tr>
-              <tr><td data-editable>CPU 478 / 775</td><td data-editable>KG</td><td data-editable>46,000</td></tr>
-              <tr><td data-editable>BOARD 상급</td><td data-editable>KG</td><td data-editable>14,000</td></tr>
-              <tr><td data-editable>AGP PCB</td><td data-editable>KG</td><td data-editable>23,000</td></tr>
-              <tr><td data-editable>HDD PCB</td><td data-editable>KG</td><td data-editable>80,000</td></tr>
-              <tr><td data-editable>CDROM</td><td data-editable>KG</td><td data-editable>1,300</td></tr>
-              <tr><td data-editable>CDROM PCB</td><td data-editable>KG</td><td data-editable>25,000</td></tr>
-              <tr><td data-editable>SERVER</td><td data-editable>KG</td><td data-editable>3,200</td></tr>
-              <tr><th rowspan="9">CU</th><td data-editable>전선</td><td data-editable>KG</td><td data-editable>23,000</td></tr>
-              <tr><td data-editable>코일</td><td data-editable>KG</td><td data-editable>6,500</td></tr>
-              <tr><td data-editable>소동</td><td data-editable>KG</td><td data-editable>18,900</td></tr>
-              <tr><td data-editable>샷트</td><td data-editable>KG</td><td data-editable>18,000</td></tr>
-              <tr><td data-editable>파동</td><td data-editable>KG</td><td data-editable>16,600</td></tr>
-              <tr><td data-editable>신주</td><td data-editable>KG</td><td data-editable>9,800</td></tr>
-              <tr><td data-editable>에어컨 라지에타</td><td data-editable>KG</td><td data-editable>9,000</td></tr>
-              <tr><td data-editable>순 알리</td><td data-editable>KG</td><td data-editable>2,200</td></tr>
-              <tr><td data-editable>후레</td><td data-editable>KG</td><td data-editable>1,400</td></tr>
-              <tr><th rowspan="6">AL</th><td data-editable>샤시 A</td><td data-editable>KG</td><td data-editable>3,500</td></tr>
-              <tr><td data-editable>샤시 B</td><td data-editable>KG</td><td data-editable>2,800</td></tr>
-              <tr><td data-editable>캐스팅 A</td><td data-editable>KG</td><td data-editable>2,700</td></tr>
-              <tr><td data-editable>캐스팅 B</td><td data-editable>KG</td><td data-editable>2,000</td></tr>
-              <tr><td data-editable>알루미늄</td><td data-editable>KG</td><td data-editable>1,800</td></tr>
-              <tr><td data-editable>주물</td><td data-editable>KG</td><td data-editable>2,500</td></tr>
-            </tbody>
-          </table>
-        </div>
-
-        <p class="price-sheet__note">주소: 경기도 김포시 대곶면 대명항로 305번길 42-17 &nbsp; 연락처: 010-7225-5333</p>
-      </div>
-
-      <div class="price-modal__guide" aria-label="시세표 수정 안내">
-        <strong>수정 방법</strong>
-        <p>편집하기를 누른 뒤 표 안의 원하는 글자나 금액을 클릭해서 바꾸고 저장을 누르세요. 저장한 내용은 이 컴퓨터의 브라우저에 보관됩니다.</p>
-      </div>
-    </section>
-  </div>
-
   <script src="https://cdn.jsdelivr.net/npm/swiper@14.3.0/swiper-bundle.min.js"></script>
   <script>
     const totalHeroSlides = document.querySelectorAll(".hero-swiper .swiper-slide").length;
@@ -467,96 +343,6 @@
         init: updateHeroProgress,
         slideChange: updateHeroProgress
       }
-    });
-
-    const priceModal = document.querySelector(".price-modal");
-    const openPriceModal = () => {
-      if (!priceModal) return;
-      priceModal.setAttribute("aria-hidden", "false");
-      document.body.classList.add("modal-open");
-      priceModal.querySelector(".price-modal__close")?.focus();
-    };
-    const closePriceModal = () => {
-      if (!priceModal) return;
-      priceModal.setAttribute("aria-hidden", "true");
-      document.body.classList.remove("modal-open");
-      setPriceEditing(false);
-    };
-
-    document.querySelectorAll("[data-open-price-modal]").forEach((button) => {
-      button.addEventListener("click", (event) => {
-        event.preventDefault();
-        openPriceModal();
-      });
-    });
-
-    document.querySelectorAll("[data-close-price-modal]").forEach((button) => {
-      button.addEventListener("click", closePriceModal);
-    });
-
-    document.addEventListener("keydown", (event) => {
-      if (event.key === "Escape") {
-        closePriceModal();
-      }
-    });
-
-    const priceSheet = document.querySelector("[data-price-sheet]");
-    const priceEditButton = document.querySelector("[data-price-edit]");
-    const priceSaveButton = document.querySelector("[data-price-save]");
-    const priceResetButton = document.querySelector("[data-price-reset]");
-    const editablePriceCells = Array.from(document.querySelectorAll("[data-editable]"));
-    const priceStorageKey = "yesmoa-editable-price-table-v1";
-
-    const setPriceEditing = (enabled) => {
-      if (!priceSheet) return;
-      priceSheet.classList.toggle("is-editing", enabled);
-      editablePriceCells.forEach((cell) => {
-        cell.contentEditable = enabled ? "true" : "false";
-        cell.spellcheck = false;
-      });
-      if (priceEditButton) {
-        priceEditButton.textContent = enabled ? "편집 종료" : "편집하기";
-      }
-    };
-
-    const readPriceCells = () => editablePriceCells.map((cell) => cell.textContent.trim());
-
-    const writePriceCells = (values) => {
-      values.forEach((value, index) => {
-        if (editablePriceCells[index]) {
-          editablePriceCells[index].textContent = value;
-        }
-      });
-    };
-
-    const originalPriceCells = readPriceCells();
-    const savedPriceCells = localStorage.getItem(priceStorageKey);
-    if (savedPriceCells) {
-      try {
-        writePriceCells(JSON.parse(savedPriceCells));
-      } catch (error) {
-        localStorage.removeItem(priceStorageKey);
-      }
-    }
-
-    priceEditButton?.addEventListener("click", () => {
-      const isEditing = priceSheet?.classList.contains("is-editing");
-      setPriceEditing(!isEditing);
-    });
-
-    priceSaveButton?.addEventListener("click", () => {
-      localStorage.setItem(priceStorageKey, JSON.stringify(readPriceCells()));
-      setPriceEditing(false);
-      priceSaveButton.textContent = "저장완료";
-      window.setTimeout(() => {
-        priceSaveButton.textContent = "저장";
-      }, 1200);
-    });
-
-    priceResetButton?.addEventListener("click", () => {
-      localStorage.removeItem(priceStorageKey);
-      writePriceCells(originalPriceCells);
-      setPriceEditing(false);
     });
   </script>
 </body>
