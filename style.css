@@ -505,45 +505,46 @@ h1 {
 
   .hero-swiper-status {
     bottom: 8px;
-    min-width: 118px;
-    min-height: 24px;
-    padding: 5px 7px;
-    gap: 7px;
+    min-width: 86px;
+    min-height: 22px;
+    padding: 4px 6px;
+    gap: 5px;
     border-color: rgba(255, 255, 255, 0.42);
     background: rgba(8, 24, 58, 0.16);
     box-shadow: 0 8px 18px rgba(6, 18, 52, 0.12);
   }
 
   .hero-swiper-progressbar {
-    width: 54px;
-    height: 3px;
+    width: 36px;
+    height: 2px;
   }
 
   .hero-swiper-fraction {
-    font-size: 10px;
+    font-size: 9px;
   }
 }
 
 @media (max-width: 380px) {
   .hero-swiper-status {
-    bottom: 6px;
+    bottom: 5px;
     min-width: 0;
-    width: min(30vw, 112px);
-    min-height: 20px;
-    padding: 4px 6px;
-    gap: 5px;
+    width: min(11vw, 42px);
+    min-height: 18px;
+    padding: 3px 4px;
+    gap: 0;
     border-color: rgba(255, 255, 255, 0.34);
     background: rgba(8, 24, 58, 0.12);
     box-shadow: none;
   }
 
   .hero-swiper-progressbar {
-    width: 42px;
-    height: 2px;
+    display: none;
   }
 
   .hero-swiper-fraction {
-    font-size: 9px;
+    font-size: 8px;
+    line-height: 1;
+    white-space: nowrap;
   }
 }
 
