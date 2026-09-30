@@ -90,7 +90,7 @@
         </div>
 
         <div class="cards" aria-label="단가표와 영상 메뉴">
-          <article class="card card-action-card" data-open-price-modal>
+          <article class="card card-action-card" data-open-price-modal role="button" tabindex="0" aria-label="부품 매입 단가표 시세표 보기">
             <button class="card-hit" type="button" data-open-price-modal aria-label="부품 매입 단가표 시세표 보기"></button>
             <span class="number">01</span>
             <h2>부품 매입 단가표</h2>
@@ -98,7 +98,7 @@
             <a href="#parts-price" data-open-price-modal>단가표 보기</a>
           </article>
 
-          <article class="card card-action-card" data-open-price-modal>
+          <article class="card card-action-card" data-open-price-modal role="button" tabindex="0" aria-label="불량 매입 단가표 시세표 보기">
             <button class="card-hit" type="button" data-open-price-modal aria-label="불량 매입 단가표 시세표 보기"></button>
             <span class="number">02</span>
             <h2>불량 매입 단가표</h2>
@@ -483,11 +483,19 @@
       setPriceEditing(false);
     };
 
-    document.querySelectorAll("[data-open-price-modal]").forEach((button) => {
-      button.addEventListener("click", (event) => {
-        event.preventDefault();
-        event.stopPropagation();
-        openPriceModal();
+    document.addEventListener("click", (event) => {
+      const trigger = event.target.closest("[data-open-price-modal]");
+      if (!trigger) return;
+      event.preventDefault();
+      openPriceModal();
+    });
+
+    document.querySelectorAll(".card-action-card[data-open-price-modal]").forEach((card) => {
+      card.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          openPriceModal();
+        }
       });
     });
 
