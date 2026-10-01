@@ -1378,14 +1378,7 @@ h1 {
   font-weight: 900;
 }
 
-.security-action::after {
-  content: "";
-  width: 18px;
-  height: 18px;
-  background:
-    linear-gradient(#0f624f, #0f624f) center / 14px 2px no-repeat,
-    linear-gradient(45deg, transparent 47%, #0f624f 48% 58%, transparent 59%) right 2px center / 9px 9px no-repeat;
-}
+
 
 @media (max-width: 900px) {
   .security-summary {
