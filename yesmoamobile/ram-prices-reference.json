@@ -1,0 +1,1976 @@
+{
+  "checked": "2026-10-01",
+  "sourcePages": 27,
+  "rows": [
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR5 삼성 (제조 10주차이내)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 550000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR5 삼성 44800(5600)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 500000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR5 삼성 38400(4800)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 380000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR5 삼성 (제조 10주차이내)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR5 삼성 44800(5600)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 220000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR5 삼성 38400(4800)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR5 삼성 (제조 10주차이내)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR5 삼성 44800(5600)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR5 삼성 38400(4800)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=7"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 230000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR4 삼성 23400(2933)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR4 삼성 23400(2933)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 72000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR4 삼성 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR4 삼성 17000(2133)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 72000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR4 삼성 23400(2933)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 28000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR4 삼성 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR4 삼성 17000(2133)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 30000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 20000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 15000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR4 삼성 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 14000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR4 삼성 17000(2133)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 13000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3608"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR3 삼성 12800",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR3 삼성 12800",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR3 삼성 8500",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR3 삼성 12800",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 700,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 700,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR3 삼성 8500",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 700,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 1G DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 500,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 1G DDR3 삼성 8500",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 500,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=651"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR2 삼성 6400",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=6"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR2 삼성 5300",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=6"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR2 삼성 4200",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=6"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 1G DDR2 삼성 6400",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=6"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 1G DDR2 삼성 5300",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=6"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 1G DDR2 삼성 4200",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=6"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR5 SK하이닉스 44800(5600)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 330000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4299"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR5 SK하이닉스 38400(4800)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4299"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR5 SK하이닉스 44800(5600)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4299"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR5 SK하이닉스 38400(4800)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4299"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR5 SK하이닉스 44800(5600)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 85000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4299"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR5 SK하이닉스 38400(4800)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 75000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4299"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR5 외산",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 230000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4141"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR5 외산",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4141"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR5 외산",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 55000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=4141"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR4 하이닉스",
+      "brand": "SK hynix",
+      "series": "DDR4",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 32G DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR4 하이닉스",
+      "brand": "SK hynix",
+      "series": "DDR4",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 16G DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR4 하이닉스",
+      "brand": "SK hynix",
+      "series": "DDR4",
+      "price": 25000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 22000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR4 하이닉스",
+      "brand": "SK hynix",
+      "series": "DDR4",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 7000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3866"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 8G DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=5"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 4G DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 400,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=5"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 300,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=5"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 1G DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=5"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 2G DDR2 외산",
+      "brand": "외산",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3872"
+    },
+    {
+      "category": "RAM",
+      "name": "데스크탑 1G DDR2 외산",
+      "brand": "외산",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=2&ctgry_no3=3872"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR5 삼성 44800(5600)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 360000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4142"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR5 삼성 38400(4800)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4142"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR5 삼성 44800(5600)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4142"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR5 삼성 38400(4800)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4142"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR5 삼성 44800(5600)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4142"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR5 삼성 38400(4800)",
+      "brand": "삼성",
+      "series": "DDR5",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4142"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 110000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 75000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR4 삼성 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 65000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR4 삼성 17000(2133)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 64000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR4 삼성 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 32000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR4 삼성 17000(2133)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 30000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR4 삼성 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 18000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR4 삼성 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 16000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR4 삼성 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 14000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR4 삼성 17000(2133)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 13000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3882"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR3 삼성 12800",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 11000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR3 삼성 12800",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR3 삼성 8500",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR3 삼성 12800",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 500,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 300,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR3 삼성 8500",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 300,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR3 삼성 10600",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR3 삼성 8500",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=67"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR2 삼성 6400",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 500,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3886"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR2 삼성 5300",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 500,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3886"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR2 삼성 4200",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 500,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3886"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR2 삼성 6400",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3886"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR2 삼성 5300",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3886"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR2 삼성 4200",
+      "brand": "삼성",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3886"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR 삼성",
+      "brand": "삼성",
+      "series": "DDR1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3889"
+    },
+    {
+      "category": "RAM",
+      "name": "512M 노트북 DDR 삼성",
+      "brand": "삼성",
+      "series": "DDR1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3889"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR5 SK하이닉스 44800(5600)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4300"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR5 SK하이닉스 38400(4800)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 270000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4300"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR5 SK하이닉스 44800(5600)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4300"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR5 SK하이닉스 38400(4800)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4300"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR5 SK하이닉스 44800(5600)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 85000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4300"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR5 SK하이닉스 38400(4800)",
+      "brand": "SK hynix",
+      "series": "DDR5",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4300"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR5 외산",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4143"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR5 외산",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4143"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR5 외산",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 60000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=4143"
+    },
+    {
+      "category": "RAM",
+      "name": "32G 노트북 DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3744"
+    },
+    {
+      "category": "RAM",
+      "name": "16G 노트북 DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3744"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 22000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3744"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR4 외산",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 7000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=3744"
+    },
+    {
+      "category": "RAM",
+      "name": "8G 노트북 DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=758"
+    },
+    {
+      "category": "RAM",
+      "name": "4G 노트북 DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 400,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=758"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 200,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=758"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR3 외산",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=758"
+    },
+    {
+      "category": "RAM",
+      "name": "2G 노트북 DDR2 외산",
+      "brand": "외산",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=68"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR2 외산",
+      "brand": "외산",
+      "series": "DDR2",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=68"
+    },
+    {
+      "category": "RAM",
+      "name": "1G 노트북 DDR 외산",
+      "brand": "외산",
+      "series": "DDR1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=3&ctgry_no3=69"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 삼성/SK ECC/REG 51200(6400)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 3200000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 삼성/SK ECC/REG 44800(5600)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 3000000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 삼성/SK ECC/REG 38400(4800)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 2800000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 삼성/SK ECC/REG 51200(6400)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 1500000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 삼성/SK ECC/REG 44800(5600)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 1400000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 삼성/SK ECC/REG 38400(4800)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 800000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 삼성/SK ECC/REG 51200(6400)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 750000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 삼성/SK ECC/REG 44800(5600)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 700000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 삼성/SK ECC/REG 38400(4800)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 600000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 삼성/SK ECC/REG 51200(6400)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 400000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 삼성/SK ECC/REG 44800(5600)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 350000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 삼성/SK ECC/REG 38400(4800)",
+      "brand": "삼성/SK",
+      "series": "DDR5",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4227"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR4 삼성 ECC/REG 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 700000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR4 삼성 ECC/REG 23400(2933)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 600000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR4 삼성 ECC/REG 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 500000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 삼성 ECC/REG 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 400000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 삼성 ECC/REG 23400(2933)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 삼성 ECC/REG 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 삼성 ECC/REG 17000(2133) / 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR4 삼성 ECC/REG 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR4 삼성 ECC/REG 21300(2666) / 23400(2933)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR4 삼성 ECC/REG 17000(2133) / 19200(2400)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR4 삼성 ECC/REG 23400(2933) / 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 65000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR4 삼성 ECC/REG 19200(2400) / 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR4 삼성 ECC/REG 17000(2133)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 30000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 8G DDR4 삼성 ECC/REG / 23400(2933) / 25600(3200)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 15000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 8G DDR4 삼성 ECC/REG 17000(2133) / 19200(2400) / 21300(2666)",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 4G DDR4 삼성 ECC/REG",
+      "brand": "삼성",
+      "series": "DDR4",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4225"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR3 삼성 ECC/REG",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 15000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4223"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR3 삼성 ECC/REG",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4223"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR3 삼성 ECC/REG",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 5000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4223"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 8G DDR3 삼성 ECC/REG",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4223"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 4G DDR3 삼성 ECC/REG",
+      "brand": "삼성",
+      "series": "DDR3",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4223"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 마이크론 ECC/REG 51200(6400)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 2000000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 마이크론 ECC/REG 44800(5600)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 2000000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 마이크론 ECC/REG 38400(4800)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 1800000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 마이크론 ECC/REG 51200(6400)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 1400000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 마이크론 ECC/REG 44800(5600)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 1350000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 마이크론 ECC/REG 38400(4800)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 1300000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 마이크론 ECC/REG 51200(6400)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 550000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 마이크론 ECC/REG 44800(5600)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 500000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 마이크론 ECC/REG 38400(4800)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 500000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 마이크론 ECC/REG 51200(6400)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 마이크론 ECC/REG 44800(5600)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 마이크론 ECC/REG 38400(4800)",
+      "brand": "Micron",
+      "series": "DDR5",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4298"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 외산 ECC/REG 44800(5600)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 1000000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR5 외산 ECC/REG 38400(4800)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 700000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 외산 ECC/REG 44800(5600)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 350000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR5 외산 ECC/REG 38400(4800)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 외산 ECC/REG 44800(5600)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR5 외산 ECC/REG 38400(4800)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 외산 ECC/REG 44800(5600)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR5 외산 ECC/REG 38400(4800)",
+      "brand": "외산",
+      "series": "DDR5",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4228"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR4 외산 ECC/REG 25600(3200)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR4 외산 ECC/REG 23400(2933)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 270000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 128G DDR4 외산 ECC/REG 21300(2666)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 외산 ECC/REG 25600(3200)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 외산 ECC/REG 23400(2933)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 외산 ECC/REG 21300(2666)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 170000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR4 외산 ECC/REG 17000(2133) / 19200(2400)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR4 외산 ECC/REG 25600(3200)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR4 외산 ECC/REG 21300(2666) / 23400(2933)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 55000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR4 외산 ECC/REG 17000(2133) / 19200(2400)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR4 외산 ECC/REG 23400(2933) / 25600(3200)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR4 외산 ECC/REG 19200(2400) / 21300(2666)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 33000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR4 외산 ECC/REG 17000(2133)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 20000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 8G DDR4 외산 ECC/REG/ 23400(2933) / 25600(3200)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 8G DDR4 외산 ECC/REG 17000(2133) / 19200(2400) / 21300(2666)",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 4G DDR4 외산 ECC/REG",
+      "brand": "외산",
+      "series": "DDR4",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4226"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 64G DDR3 외산 ECC/REG",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4224"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 32G DDR3 외산 ECC/REG",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 8000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4224"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 16G DDR3 외산 ECC/REG",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4224"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 8G DDR3 외산 ECC/REG",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4224"
+    },
+    {
+      "category": "RAM",
+      "name": "서버 4G DDR3 외산 ECC/REG",
+      "brand": "외산",
+      "series": "DDR3",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "서버",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=1&ctgry_no2=4222&ctgry_no3=4224"
+    }
+  ]
+}
