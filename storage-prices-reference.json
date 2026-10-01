@@ -1,0 +1,926 @@
+{
+  "checked": "2026-10-01",
+  "sourcePages": 8,
+  "rows": [
+    {
+      "category": "SSD",
+      "name": "8TB SSD 삼성 20년이후제품 860시리즈 이상",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 400000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "8TB SSD 삼성중고",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB SSD 삼성 20년이후제품 860시리즈 이상",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB SSD 삼성중고",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 140000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB SSD 삼성 20년이후제품 860시리즈 이상",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB SSD 삼성중고",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB SSD 삼성 20년이후제품 860시리즈 이상",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB SSD 삼성중고",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 60000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "500G SSD 삼성중고",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "500G SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "250G SSD 삼성중고",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 25000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "250G SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 15000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "120G SSD 삼성중고",
+      "brand": "삼성",
+      "series": "2.5 SATA",
+      "price": 6000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "120G SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "80G SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 1500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "64G SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 1500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "32G SSD",
+      "brand": "공통",
+      "series": "2.5 SATA",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4274&ctgry_no3=4292"
+    },
+    {
+      "category": "SSD",
+      "name": "8TB NVMe 삼성 20년이후제품 970시리즈 이상",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 600000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "8TB NVME 삼성",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 450000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "8TB NVME",
+      "brand": "공통",
+      "series": "NVMe",
+      "price": 400000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB NVMe 삼성 20년이후제품 970시리즈 이상",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB NVME 삼성",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 220000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB NVME",
+      "brand": "공통",
+      "series": "NVMe",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB NVMe 삼성 20년이후제품 970시리즈 이상",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB NVME 삼성",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB NVME",
+      "brand": "공통",
+      "series": "NVMe",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB NVMe 삼성 20년이후제품 970시리즈 이상",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB NVME 삼성",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 60000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB NVME",
+      "brand": "공통",
+      "series": "NVMe",
+      "price": 55000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "500G NVME 삼성",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "500G NVME",
+      "brand": "공통",
+      "series": "NVMe",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "250G NVME 삼성",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 30000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "250G NVME",
+      "brand": "공통",
+      "series": "NVMe",
+      "price": 20000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "120G NVME 삼성",
+      "brand": "삼성",
+      "series": "NVMe",
+      "price": 7000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "120G NVME",
+      "brand": "공통",
+      "series": "NVMe",
+      "price": 5000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4280&ctgry_no3=4295"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB M.2 삼성",
+      "brand": "삼성",
+      "series": "M.2",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "4TB M.2",
+      "brand": "공통",
+      "series": "M.2",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB M.2 삼성",
+      "brand": "삼성",
+      "series": "M.2",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "2TB M.2",
+      "brand": "공통",
+      "series": "M.2",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB M.2 삼성",
+      "brand": "삼성",
+      "series": "M.2",
+      "price": 60000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "1TB M.2",
+      "brand": "공통",
+      "series": "M.2",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "500G M.2 삼성",
+      "brand": "삼성",
+      "series": "M.2",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "500G M.2",
+      "brand": "공통",
+      "series": "M.2",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "250G M.2 삼성",
+      "brand": "삼성",
+      "series": "M.2",
+      "price": 25000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "250G M.2",
+      "brand": "공통",
+      "series": "M.2",
+      "price": 15000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "120G M.2 삼성",
+      "brand": "삼성",
+      "series": "M.2",
+      "price": 8000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "120G M.2",
+      "brand": "공통",
+      "series": "M.2",
+      "price": 5000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4275&ctgry_no3=4293"
+    },
+    {
+      "category": "SSD",
+      "name": "250G M-SATA",
+      "brand": "공통",
+      "series": "M-SATA",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4276&ctgry_no3=4294"
+    },
+    {
+      "category": "SSD",
+      "name": "120G M-SATA",
+      "brand": "공통",
+      "series": "M-SATA",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4276&ctgry_no3=4294"
+    },
+    {
+      "category": "SSD",
+      "name": "64G M-SATA",
+      "brand": "공통",
+      "series": "M-SATA",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4273&ctgry_no2=4276&ctgry_no3=4294"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 18TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 16TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 14TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 140000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 12TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 10TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 8TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 6TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 60000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 5TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 4TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 3TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 30000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 2TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 20000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 1.5TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 1TB SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 750G SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 640G SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 500G SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 320G SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 250G SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 160-200G SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 80-120G SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4287"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 500G IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4296"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 320G IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4296"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 250G IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4296"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 160-200G IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4296"
+    },
+    {
+      "category": "HDD",
+      "name": "데스크탑 80-120G IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "데스크탑",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4278&ctgry_no3=4296"
+    },
+    {
+      "category": "HDD",
+      "name": "2TB 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 20000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "1.5TB 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "1TB 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "750G 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "640G 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "500G 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "320G 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "250G 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "160G~200G 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "80-120G 노트북 SATA",
+      "brand": "공통",
+      "series": "SATA",
+      "price": 200,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4289"
+    },
+    {
+      "category": "HDD",
+      "name": "250G 노트북 IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4297"
+    },
+    {
+      "category": "HDD",
+      "name": "160-200G 노트북 IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4297"
+    },
+    {
+      "category": "HDD",
+      "name": "80-120G 노트북 IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4297"
+    },
+    {
+      "category": "HDD",
+      "name": "40-60G 노트북 IDE",
+      "brand": "공통",
+      "series": "IDE",
+      "price": 100,
+      "unit": "EA",
+      "usage": "노트북",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=4277&ctgry_no2=4279&ctgry_no3=4297"
+    }
+  ]
+}
