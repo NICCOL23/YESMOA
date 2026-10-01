@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YESMOA Viewport Fit Hero Cards</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@14.3.0/swiper-bundle.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-nav" aria-label="YESMOA-COM 상단 메뉴">
+    <div class="nav-shell">
+      <a class="nav-brand" href="#top" aria-label="YESMOA-COM 홈">
+        <img class="brand-mark" src="assets/yesmoa-logo-mark.png" alt="" aria-hidden="true">
+        <span>YESMOA-COM</span>
+      </a>
+
+      <nav class="nav-menu" aria-label="주요 메뉴">
+        <a href="#parts-price" data-open-price-modal>매입 단가표</a>
+        <a href="#parts-price" data-open-price-modal>불량매입단가표</a>
+        <a href="#process-title">매입절차</a>
+        <a href="#security-title">데이터 파기</a>
+        <a href="#faq">자주묻는질문</a>
+      </nav>
+
+      <a class="nav-call" href="tel:010-000-0000">
+        <span aria-hidden="true"></span>
+        문의 010-000-0000
+      </a>
+    </div>
+  </header>
+
+  <main class="canvas" aria-label="YESMOA hero and cards viewport fit layout">
+    <section class="hero hero-swiper-section" aria-label="YESMOA 주요 히어로 슬라이드">
+      <div class="swiper hero-swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <picture>
+              <source media="(max-width: 380px)" srcset="assets/swiper/모바일 이미지/max-380px/yesmoa-parts-buyback-swiper-hero-text-image-1920x500-mobile-380w.png">
+              <source media="(max-width: 1200px)" srcset="assets/swiper/모바일 이미지/max-1200px/yesmoa-parts-buyback-swiper-hero-text-image-1920x500-responsive-1200w.png">
+              <img src="assets/swiper/slide-01-parts-buyback.png" alt="최고가 매입 안내 히어로 이미지">
+            </picture>
+          </div>
+          <div class="swiper-slide">
+            <picture>
+              <source media="(max-width: 380px)" srcset="assets/swiper/모바일 이미지/max-380px/yesmoa-bulk-buy-swiper-hero-seamless-1920x500-mobile-380w.png">
+              <source media="(max-width: 1200px)" srcset="assets/swiper/모바일 이미지/max-1200px/yesmoa-bulk-buy-swiper-hero-seamless-1920x500-responsive-1200w.png">
+              <img src="assets/swiper/slide-02-bulk-buy.png" alt="기업체 관공서 학교 학원 PC방 대량 매입 안내 이미지">
+            </picture>
+          </div>
+          <div class="swiper-slide">
+            <picture>
+              <source media="(max-width: 380px)" srcset="assets/swiper/모바일 이미지/max-380px/yesmoa-data-destruction-swiper-hero-1920x500-simple-mobile-380w.png">
+              <source media="(max-width: 1200px)" srcset="assets/swiper/모바일 이미지/max-1200px/yesmoa-data-destruction-swiper-hero-1920x500-simple-responsive-1200w.png">
+              <img src="assets/swiper/slide-03-data-destruction.png" alt="자료유출 걱정 없는 저장장치 완전 파쇄 안내 이미지">
+            </picture>
+          </div>
+          <div class="swiper-slide">
+            <picture>
+              <source media="(max-width: 380px)" srcset="assets/swiper/모바일 이미지/max-380px/yesmoa-scrap-value-swiper-hero-1920x500-fixed-text-mobile-380w.png">
+              <source media="(max-width: 1200px)" srcset="assets/swiper/모바일 이미지/max-1200px/yesmoa-scrap-value-swiper-hero-1920x500-fixed-text-responsive-1200w.png">
+              <img src="assets/swiper/slide-04-scrap-value.png" alt="고장난 부품과 안쓰는 부품의 다음 가치 안내 이미지">
+            </picture>
+          </div>
+          <div class="swiper-slide">
+            <picture>
+              <source media="(max-width: 380px)" srcset="assets/swiper/모바일 이미지/max-380px/yesmoa-purchase-method-shipping-source-2172x724-mobile-380w.png">
+              <source media="(max-width: 1200px)" srcset="assets/swiper/모바일 이미지/max-1200px/yesmoa-purchase-method-shipping-source-2172x724-responsive-1200w.png">
+              <img src="assets/swiper/slide-05-purchase-method.png" alt="택배 발송 방문 매입 출장 매입 직접 방문 안내 이미지">
+            </picture>
+          </div>
+        </div>
+
+        <button class="swiper-button-prev hero-swiper-button" type="button" aria-label="이전 슬라이드"></button>
+        <button class="swiper-button-next hero-swiper-button" type="button" aria-label="다음 슬라이드"></button>
+        <div class="hero-swiper-status" aria-label="슬라이드 진행 상태">
+          <div class="hero-swiper-progressbar" aria-hidden="true">
+            <span></span>
+          </div>
+          <div class="hero-swiper-fraction"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="service-section" aria-labelledby="service-title">
+      <div class="shell">
+        <div class="section-head">
+          <p class="eyebrow">YESMOA PARTS VALUE</p>
+          <h1 id="service-title">안쓰는 부품의,<br>다음 가치 단가 확인하세요</h1>
+        </div>
+
+        <div class="cards" aria-label="단가표와 영상 메뉴">
+          <article class="card card-action-card" data-open-price-modal role="button" tabindex="0" aria-label="부품 매입 단가표 시세표 보기">
+            <button class="card-hit" type="button" data-open-price-modal aria-label="부품 매입 단가표 시세표 보기"></button>
+            <span class="number">01</span>
+            <h2>부품 매입 단가표</h2>
+            <p>CPU, 메모리, 그래픽카드, SSD, HDD 등 정상 작동 부품의 기준 단가를 확인하세요.</p>
+            <a href="#parts-price" data-open-price-modal>단가표 보기</a>
+          </article>
+
+          <article class="card card-action-card" data-open-price-modal role="button" tabindex="0" aria-label="불량 매입 단가표 시세표 보기">
+            <button class="card-hit" type="button" data-open-price-modal aria-label="불량 매입 단가표 시세표 보기"></button>
+            <span class="number">02</span>
+            <h2>불량 매입 단가표</h2>
+            <p>전원 불량, 파손, 인식 불가 등 상태별 불량 부품의 매입 기준을 확인하세요.</p>
+            <a href="#parts-price" data-open-price-modal>불량 단가 보기</a>
+          </article>
+
+          <article class="card video-card">
+            <div class="video-text">
+              <span class="number">03</span>
+              <h2>데이타 파기 영상</h2>
+            </div>
+            <div class="video-frame" aria-label="데이타 파기 영상 프레임">
+              <span class="video-label">VIDEO</span>
+              <span class="play" aria-hidden="true"></span>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <section class="seller-section" aria-labelledby="seller-title">
+    <div class="seller-shell">
+      <div class="seller-head">
+        <div>
+          <p class="seller-eyebrow">SELL YOUR WAY</p>
+          <h2 id="seller-title">개인부터 기업까지,<br>부품·불량·장비 매입을 한 번에</h2>
+        </div>
+        <p class="seller-lead">소량 부품부터 대량 장비까지, 수량과 상태에 맞춰 필요한 준비 항목을 빠르게 확인하세요.</p>
+      </div>
+
+      <div class="seller-grid" aria-label="매입 유형 안내">
+        <article class="seller-card">
+          <figure class="seller-visual">
+            <img src="assets/personal-buyback.png" alt="개인 부품과 노트북 매입 안내 이미지">
+          </figure>
+          <div class="seller-copy">
+            <span>01 / PERSONAL</span>
+            <h3>개인 · 소량 매입</h3>
+            <p>사용하지 않는 PC, 노트북과 부품. 모델명과 작동 상태부터 확인하세요.</p>
+            <ul>
+              <li>제품 사진 · 모델명</li>
+              <li>작동 여부 · 구성품</li>
+            </ul>
+            <a href="#personal">개인 상담 준비</a>
+          </div>
+        </article>
+
+        <article class="seller-card">
+          <figure class="seller-visual">
+            <img src="assets/business-buyback.png" alt="PC방과 사무실 대량 장비 매입 안내 이미지">
+          </figure>
+          <div class="seller-copy">
+            <span>02 / BUSINESS</span>
+            <h3>PC방 · 사무실 매입</h3>
+            <p>장비 교체, 이전과 폐업 정리. 수량과 반출 일정을 함께 준비하세요.</p>
+            <ul>
+              <li>품목별 수량 · 위치</li>
+              <li>수거 일정 · 반출 조건</li>
+            </ul>
+            <a href="#business">대량 상담 준비</a>
+          </div>
+        </article>
+
+        <article class="seller-card">
+          <figure class="seller-visual">
+            <img src="assets/data-security.png" alt="기업 기관 IT 자산과 데이터 보안 처리 안내 이미지">
+          </figure>
+          <div class="seller-copy">
+            <span>03 / IT ASSET</span>
+            <h3>기업 · 기관 IT 자산</h3>
+            <p>회사 장비와 저장장치 정리. 보안과 필요한 서류를 먼저 협의하세요.</p>
+            <ul>
+              <li>자산 목록 · 관리 번호</li>
+              <li>삭제 · 파기 방식 협의</li>
+            </ul>
+            <a href="#asset">기업 매입 안내</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="security-summary" aria-labelledby="security-title">
+    <div class="security-shell">
+      <figure class="security-image">
+        <img src="assets/security-summary-data-security.png" alt="저장장치 데이터 보안과 파기 안내 캐릭터 이미지">
+      </figure>
+
+      <div class="security-copy">
+        <p class="security-eyebrow">BEFORE YOU SELL</p>
+        <h2 id="security-title">매입 전,<br>장비상태와 데이타 안전을 함께 확인하세요</h2>
+        <p class="security-summary-text">
+          판매 전 필요한 자료는 먼저 백업하고, HDD·SSD 포함 여부와 계정 로그아웃을 확인해 주세요.
+          기업 장비는 자산 목록, 반출 조건, 삭제·파기 방식까지 함께 정리하면 상담이 더 빠르고 안전해집니다.
+        </p>
+        <ul class="security-points" aria-label="매입 전 확인 요약">
+          <li>개인 자료 백업</li>
+          <li>저장장치·계정 확인</li>
+          <li>반출 조건과 보안 처리 협의</li>
+        </ul>
+        <a class="security-action" href="#security-memo">보안 요청 메모 작성</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="process-section" aria-labelledby="process-title">
+    <div class="process-shell">
+      <div class="process-head">
+        <div>
+          <p class="process-eyebrow">PURCHASE PROCESS</p>
+          <h2 id="process-title">매입은 이렇게 진행됩니다.</h2>
+        </div>
+        <p class="process-lead">처음 판매하는 분도 쉽게.<br>네 가지 단계로 전체 흐름을 확인하세요.</p>
+      </div>
+
+      <div class="process-steps" aria-label="매입 진행 단계">
+        <article class="process-step process-step-chat">
+          <div class="process-step-top">
+            <span class="process-number">01</span>
+            <span class="process-icon" aria-hidden="true"></span>
+          </div>
+          <h3>상담 · 견적 요청</h3>
+          <p>모델명, 수량, 작동 상태와 사진을 준비해 매입 상담을 요청합니다.</p>
+        </article>
+
+        <article class="process-step process-step-check">
+          <div class="process-step-top">
+            <span class="process-number">02</span>
+            <span class="process-icon" aria-hidden="true"></span>
+          </div>
+          <h3>견적 · 일정 확인</h3>
+          <p>안내받은 견적을 확인하고 택배 또는 방문 수거 일정을 협의합니다.</p>
+        </article>
+
+        <article class="process-step process-step-box">
+          <div class="process-step-top">
+            <span class="process-number">03</span>
+            <span class="process-icon" aria-hidden="true"></span>
+          </div>
+          <h3>수거 · 제품 검수</h3>
+          <p>장비의 모델과 상태를 확인하고 견적 변경 사항이 있으면 안내합니다.</p>
+        </article>
+
+        <article class="process-step process-step-wallet">
+          <div class="process-step-top">
+            <span class="process-number">04</span>
+            <span class="process-icon" aria-hidden="true"></span>
+          </div>
+          <h3>금액 확인 · 정산</h3>
+          <p>최종 매입 금액에 동의한 후 희망한 방법으로 정산을 진행합니다.</p>
+        </article>
+      </div>
+
+      <div class="process-note" id="process-business">
+        <div>
+          <strong>기업 · 기관 대량 매입</strong>
+          <span>장비 목록과 수량, 반출 조건, 필요한 보안 처리 서류를 함께 알려주세요.</span>
+        </div>
+        <a href="#business">대량 상담 준비</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-banner-section" aria-label="예스모아 매입 상담 안내">
+    <img src="assets/yesmoa-cta-banner-1920x280.png" alt="쓰지 않는 컴퓨터, 부품, IT장비, 불량 스크랩 모두 예스모아에서 가치를 확인하세요.">
+  </section>
+
+  <footer class="site-footer" aria-label="YESMOA-COM 사업자 정보">
+    <div class="footer-shell">
+      <div class="footer-top">
+        <a href="#privacy">개인정보처리방침</a>
+        <a href="#terms">서비스 이용약관</a>
+        <a href="#email-policy">이메일무단수집거부</a>
+        <a href="#video-policy">영상기기관리방침</a>
+      </div>
+
+      <div class="footer-main">
+        <div class="footer-info">
+          <strong>YESMOA-COM</strong>
+          <p>
+            대표 : 신종삼 <span aria-hidden="true">·</span> 사업자번호 : 000-00-0000<br>
+            본점 : 부산시 진구 범전동 212-69<br>
+            대표전화 : 00-000-000 <span aria-hidden="true">·</span> 팩스 : 00-000-0000<br>
+            개인정보책임자 : 신종삼 <span aria-hidden="true">·</span> 이메일 : niccol23@hanmail.net
+          </p>
+        </div>
+
+        <div class="footer-contact">
+          <span>상담 전화/문의</span>
+          <strong>000-000-0000</strong>
+          <p>부품·불량·IT장비 매입 상담</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>Copyright © YESMOA-COM. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <div class="price-modal" id="parts-price" aria-hidden="true">
+    <div class="price-modal__backdrop" data-close-price-modal></div>
+    <section class="price-modal__panel" role="dialog" aria-modal="true" aria-labelledby="parts-price-title">
+      <button class="price-modal__close" type="button" data-close-price-modal aria-label="시세표 닫기"></button>
+
+      <div class="price-modal__head">
+        <div>
+          <p class="price-modal__eyebrow">PARTS PRICE TABLE</p>
+          <h2 id="parts-price-title">부품 매입 단가표</h2>
+        </div>
+        <p>편집하기를 누르면 표 안의 글자와 금액을 직접 수정할 수 있습니다.</p>
+      </div>
+
+      <div class="price-sheet" data-price-sheet>
+        <div class="price-sheet__top">
+          <div>
+            <p class="price-sheet__label">시세표</p>
+            <h3>2026년 08월 25일 컴퓨터류 시세표</h3>
+            <p class="price-sheet__date">2026. 08. 25</p>
+          </div>
+          <div class="price-sheet__actions" aria-label="시세표 편집 도구">
+            <button type="button" data-price-edit>편집하기</button>
+            <button type="button" data-price-save>저장</button>
+            <button type="button" data-price-reset>초기화</button>
+          </div>
+        </div>
+
+        <div class="price-sheet__brand">
+          <strong>TGY</strong>
+          <span>www.tgy.kr</span>
+          <b>컴퓨터류 시세표</b>
+        </div>
+
+        <div class="price-sheet__tables">
+          <table class="editable-price-table">
+            <thead>
+              <tr>
+                <th>구분</th>
+                <th>품목</th>
+                <th>kg/EA</th>
+                <th>시세가</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><th rowspan="3">BOARD</th><td data-editable>H110 / B150 / B250 메인보드</td><td data-editable>EA</td><td data-editable>16,000</td></tr>
+              <tr><td data-editable>H310 / H410 메인보드</td><td data-editable>EA</td><td data-editable>13,000</td></tr>
+              <tr><td data-editable>AMD B450</td><td data-editable>EA</td><td data-editable>5,000</td></tr>
+              <tr><th rowspan="5">NOTE BOOK</th><td data-editable>노트북 14인치 이하</td><td data-editable>EA</td><td data-editable>11,000</td></tr>
+              <tr><td data-editable>노트북 15인치 이상</td><td data-editable>EA</td><td data-editable>8,000</td></tr>
+              <tr><td data-editable>노트북 파손</td><td data-editable>EA</td><td data-editable>5,000</td></tr>
+              <tr><td data-editable>i5/i7급 상태 양호</td><td data-editable>EA</td><td data-editable>14,000</td></tr>
+              <tr><td data-editable>i5/i7급 상태 하급</td><td data-editable>EA</td><td data-editable>11,000</td></tr>
+              <tr><th rowspan="7">SSD / M2</th><td data-editable>SSD/M2 32G</td><td data-editable>EA</td><td data-editable>1,500</td></tr>
+              <tr><td data-editable>SSD/M2 64G</td><td data-editable>EA</td><td data-editable>2,000</td></tr>
+              <tr><td data-editable>SSD/M2 128G</td><td data-editable>EA</td><td data-editable>6,500</td></tr>
+              <tr><td data-editable>SSD/M2 256G</td><td data-editable>EA</td><td data-editable>15,000</td></tr>
+              <tr><td data-editable>SSD/M2 512G</td><td data-editable>EA</td><td data-editable>30,000</td></tr>
+              <tr><td data-editable>SSD/M2 1T</td><td data-editable>EA</td><td data-editable>55,000</td></tr>
+              <tr><td data-editable>SSD/M2 2T</td><td data-editable>EA</td><td data-editable>115,000</td></tr>
+              <tr><th rowspan="11">AGP</th><td data-editable>GTX 450/440/550/950</td><td data-editable>EA</td><td data-editable>7,000</td></tr>
+              <tr><td data-editable>GTX 650/630</td><td data-editable>EA</td><td data-editable>7,000</td></tr>
+              <tr><td data-editable>GTX 750/750 Ti</td><td data-editable>EA</td><td data-editable>10,000</td></tr>
+              <tr><td data-editable>GTX 950</td><td data-editable>EA</td><td data-editable>14,000</td></tr>
+              <tr><td data-editable>GTX 960</td><td data-editable>EA</td><td data-editable>18,000</td></tr>
+              <tr><td data-editable>GTX 1050 Ti</td><td data-editable>EA</td><td data-editable>38,000</td></tr>
+              <tr><td data-editable>GTX 1060</td><td data-editable>EA</td><td data-editable>21,000</td></tr>
+              <tr><td data-editable>GTX 1070 / 1070 Ti</td><td data-editable>EA</td><td data-editable>17,000</td></tr>
+              <tr><td data-editable>RTX 2060</td><td data-editable>EA</td><td data-editable>50,000</td></tr>
+              <tr><td data-editable>RTX 3060</td><td data-editable>EA</td><td data-editable>51,000</td></tr>
+              <tr><td data-editable>RTX 3070 Ti</td><td data-editable>EA</td><td data-editable>110,000</td></tr>
+            </tbody>
+          </table>
+
+          <table class="editable-price-table">
+            <thead>
+              <tr>
+                <th>구분</th>
+                <th>품목</th>
+                <th>kg/EA</th>
+                <th>시세가</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><th rowspan="9">SCRAP</th><td data-editable>PC 본체</td><td data-editable>EA</td><td data-editable>9,700</td></tr>
+              <tr><td data-editable>MEMORY 일반</td><td data-editable>KG</td><td data-editable>191,000</td></tr>
+              <tr><td data-editable>CPU 478 / 775</td><td data-editable>KG</td><td data-editable>46,000</td></tr>
+              <tr><td data-editable>BOARD 상급</td><td data-editable>KG</td><td data-editable>14,000</td></tr>
+              <tr><td data-editable>AGP PCB</td><td data-editable>KG</td><td data-editable>23,000</td></tr>
+              <tr><td data-editable>HDD PCB</td><td data-editable>KG</td><td data-editable>80,000</td></tr>
+              <tr><td data-editable>CDROM</td><td data-editable>KG</td><td data-editable>1,300</td></tr>
+              <tr><td data-editable>CDROM PCB</td><td data-editable>KG</td><td data-editable>25,000</td></tr>
+              <tr><td data-editable>SERVER</td><td data-editable>KG</td><td data-editable>3,200</td></tr>
+              <tr><th rowspan="9">CU</th><td data-editable>전선</td><td data-editable>KG</td><td data-editable>23,000</td></tr>
+              <tr><td data-editable>코일</td><td data-editable>KG</td><td data-editable>6,500</td></tr>
+              <tr><td data-editable>소동</td><td data-editable>KG</td><td data-editable>18,900</td></tr>
+              <tr><td data-editable>샷트</td><td data-editable>KG</td><td data-editable>18,000</td></tr>
+              <tr><td data-editable>파동</td><td data-editable>KG</td><td data-editable>16,600</td></tr>
+              <tr><td data-editable>신주</td><td data-editable>KG</td><td data-editable>9,800</td></tr>
+              <tr><td data-editable>에어컨 라지에타</td><td data-editable>KG</td><td data-editable>9,000</td></tr>
+              <tr><td data-editable>순 알리</td><td data-editable>KG</td><td data-editable>2,200</td></tr>
+              <tr><td data-editable>후레</td><td data-editable>KG</td><td data-editable>1,400</td></tr>
+              <tr><th rowspan="6">AL</th><td data-editable>샤시 A</td><td data-editable>KG</td><td data-editable>3,500</td></tr>
+              <tr><td data-editable>샤시 B</td><td data-editable>KG</td><td data-editable>2,800</td></tr>
+              <tr><td data-editable>캐스팅 A</td><td data-editable>KG</td><td data-editable>2,700</td></tr>
+              <tr><td data-editable>캐스팅 B</td><td data-editable>KG</td><td data-editable>2,000</td></tr>
+              <tr><td data-editable>알루미늄</td><td data-editable>KG</td><td data-editable>1,800</td></tr>
+              <tr><td data-editable>주물</td><td data-editable>KG</td><td data-editable>2,500</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p class="price-sheet__note">주소: 경기도 김포시 대곶면 대명항로 305번길 42-17 &nbsp; 연락처: 010-7225-5333</p>
+      </div>
+
+      <div class="price-modal__guide" aria-label="시세표 수정 안내">
+        <strong>수정 방법</strong>
+        <p>편집하기를 누른 뒤 표 안의 원하는 글자나 금액을 클릭해서 바꾸고 저장을 누르세요. 저장한 내용은 이 컴퓨터의 브라우저에 보관됩니다.</p>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@14.3.0/swiper-bundle.min.js"></script>
+  <script>
+    const totalHeroSlides = document.querySelectorAll(".hero-swiper .swiper-slide").length;
+    const updateHeroProgress = (swiper) => {
+      const bar = document.querySelector(".hero-swiper-progressbar span");
+      if (!bar) return;
+      const total = totalHeroSlides;
+      const progress = total > 0 ? ((swiper.realIndex + 1) / total) * 100 : 0;
+      bar.style.width = progress + "%";
+    };
+
+    const heroSwiper = new Swiper(".hero-swiper", {
+      loop: true,
+      speed: 900,
+      autoHeight: true,
+      effect: "fade",
+      fadeEffect: {
+        crossFade: true
+      },
+      autoplay: {
+        delay: 5000,
+        disableOnInteraction: false,
+        pauseOnMouseEnter: true
+      },
+      keyboard: {
+        enabled: true
+      },
+      pagination: {
+        el: ".hero-swiper .hero-swiper-fraction",
+        type: "fraction",
+        formatFractionCurrent: function (number) {
+          return String(number).padStart(2, "0");
+        },
+        formatFractionTotal: function (number) {
+          return String(number).padStart(2, "0");
+        }
+      },
+      navigation: {
+        nextEl: ".hero-swiper .swiper-button-next",
+        prevEl: ".hero-swiper .swiper-button-prev"
+      },
+      on: {
+        init: updateHeroProgress,
+        slideChange: updateHeroProgress
+      }
+    });
+
+    const priceModal = document.querySelector(".price-modal");
+    const openPriceModal = () => {
+      if (!priceModal) return;
+      priceModal.setAttribute("aria-hidden", "false");
+      document.body.classList.add("modal-open");
+      priceModal.querySelector(".price-modal__close")?.focus();
+    };
+    const closePriceModal = () => {
+      if (!priceModal) return;
+      priceModal.setAttribute("aria-hidden", "true");
+      document.body.classList.remove("modal-open");
+      setPriceEditing(false);
+    };
+
+    document.addEventListener("click", (event) => {
+      const trigger = event.target.closest("[data-open-price-modal]");
+      if (!trigger) return;
+      event.preventDefault();
+      openPriceModal();
+    });
+
+    document.querySelectorAll(".card-action-card[data-open-price-modal]").forEach((card) => {
+      card.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          openPriceModal();
+        }
+      });
+    });
+
+    document.querySelectorAll("[data-close-price-modal]").forEach((button) => {
+      button.addEventListener("click", closePriceModal);
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        closePriceModal();
+      }
+    });
+
+    const priceSheet = document.querySelector("[data-price-sheet]");
+    const priceEditButton = document.querySelector("[data-price-edit]");
+    const priceSaveButton = document.querySelector("[data-price-save]");
+    const priceResetButton = document.querySelector("[data-price-reset]");
+    const editablePriceCells = Array.from(document.querySelectorAll("[data-editable]"));
+    const priceStorageKey = "yesmoa-editable-price-table-v1";
+
+    const setPriceEditing = (enabled) => {
+      if (!priceSheet) return;
+      priceSheet.classList.toggle("is-editing", enabled);
+      editablePriceCells.forEach((cell) => {
+        cell.contentEditable = enabled ? "true" : "false";
+        cell.spellcheck = false;
+      });
+      if (priceEditButton) {
+        priceEditButton.textContent = enabled ? "편집 종료" : "편집하기";
+      }
+    };
+
+    const readPriceCells = () => editablePriceCells.map((cell) => cell.textContent.trim());
+
+    const writePriceCells = (values) => {
+      values.forEach((value, index) => {
+        if (editablePriceCells[index]) {
+          editablePriceCells[index].textContent = value;
+        }
+      });
+    };
+
+    const originalPriceCells = readPriceCells();
+    const savedPriceCells = localStorage.getItem(priceStorageKey);
+    if (savedPriceCells) {
+      try {
+        writePriceCells(JSON.parse(savedPriceCells));
+      } catch (error) {
+        localStorage.removeItem(priceStorageKey);
+      }
+    }
+
+    priceEditButton?.addEventListener("click", () => {
+      const isEditing = priceSheet?.classList.contains("is-editing");
+      setPriceEditing(!isEditing);
+    });
+
+    priceSaveButton?.addEventListener("click", () => {
+      localStorage.setItem(priceStorageKey, JSON.stringify(readPriceCells()));
+      setPriceEditing(false);
+      priceSaveButton.textContent = "저장완료";
+      window.setTimeout(() => {
+        priceSaveButton.textContent = "저장";
+      }, 1200);
+    });
+
+    priceResetButton?.addEventListener("click", () => {
+      localStorage.removeItem(priceStorageKey);
+      writePriceCells(originalPriceCells);
+      setPriceEditing(false);
+    });
+  </script>
+</body>
+</html>
