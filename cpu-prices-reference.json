@@ -1,0 +1,4435 @@
+{
+  "checked": "2026-10-01",
+  "rows": [
+    {
+      "category": "CPU",
+      "name": "Intel 울트라7 270K PLUS",
+      "brand": "INTEL",
+      "series": "16세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4304"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라5 250K PLUS",
+      "brand": "INTEL",
+      "series": "16세대",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4304"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라5 250KF PLUS",
+      "brand": "INTEL",
+      "series": "16세대",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4304"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라9 285K",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 295000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라9 285",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 285000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라7 265K",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 195000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라7 265",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 185000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라7 265KF",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 170000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라7 265F",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라5 245K",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 110000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라5 245KF",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라5 235",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 85000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라5 225",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 75000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울트라5 225F",
+      "brand": "INTEL",
+      "series": "15세대",
+      "price": 65000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4303"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 14900KS",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 14900K",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 400000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 14900",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 400000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 14900KF",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 310000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 14900F",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I7 14700K",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I7 14700KF",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I7 14700",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 270000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I7 14700F",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 14600K",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 14600KF",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 14500",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 14400",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 14400F",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I3 14100",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I3 14100F",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 60000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터 인텔 프로세서 300",
+      "brand": "INTEL",
+      "series": "14세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4144"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 13900KS",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 13900K",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 340000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 13900KF",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 255000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 13900",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 370000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I9 13900F",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터i7 13700K",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I7 13700KF",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I7 13700",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 290000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I7 13700F",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 13600K",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 13600KF",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 13500",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 13400",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I5 13400F",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I3 13100",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 랩터I3 13100F",
+      "brand": "INTEL",
+      "series": "13세대",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4137"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I9 12900",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 350000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I9 12900K",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 320000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I9 12900KS",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 280000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I9 12900KF",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 220000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I9 12900F",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 220000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I7 12700",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 240000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I7 12700K",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 220000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I7 12700KF",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I7 12700F",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I5 12500",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I5 12400",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I5 12600K",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I5 12600",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I5 12600KF",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I5 12400F",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I3 12100",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더I3 12100F",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더G7400",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 엘더G6900",
+      "brand": "INTEL",
+      "series": "12세대",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4089"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I9 11900k",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 280000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I9 11900",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 270000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I9 11900KF",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 155000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I9 11900F",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I7 11700",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 155000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I7 11700K",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 155000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I7 11700KF",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I7 11700F",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11600",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11600K",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11600KF",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11500",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 115000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11500F",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11400",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 110000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11400F",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 로켓I5 11600F",
+      "brand": "INTEL",
+      "series": "11세대",
+      "price": 55000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4083"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I9 10900K",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I9 10900KF",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 175000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I9 10900",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 360000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I9 10900F",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 170000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I7 10700K",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 220000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I7 10700KF",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I7 10700",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 160000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I7 10700F",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10600K",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10600KF",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10600",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10500",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 115000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10500F",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10400",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 110000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10400F",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I3 10100",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I3 10100F",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧G6400",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 18000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧G5900",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧G6405",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 18000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I5 10600F",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 65000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧G5905",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧I3 10105F",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 코멧G5925",
+      "brand": "INTEL",
+      "series": "10세대",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=4020"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I9 9900K",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I9 9900",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I9 9900KF",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 140000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I7 9700",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I7 9700K",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 100000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I7 9700KF",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 85000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I7 9700F",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9600K",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9600",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9600KF",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9600F",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9500",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 55000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9500F",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9400",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 55000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 9400F",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I3 9100",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 17000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I3 9100F",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피G5620",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피G5420",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피G4930",
+      "brand": "INTEL",
+      "series": "9세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=25"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I7 8700K",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 72000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I7 8700",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 72000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 8600K",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 8600",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 8500",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I5 8400",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 33000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I3 8350K",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 11000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피I3 8100",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피G5600",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피G5400",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피G4920",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 커피G4900",
+      "brand": "INTEL",
+      "series": "8세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3918"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I7 7700K",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I7 7700",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I5 7600K",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 14000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I5 7600",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 14000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I5 7500",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 14000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I5 7400",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 11000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I3 7350K",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 800,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I3 7320",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 800,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I3 7300",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 800,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비I3 7100",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 800,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비G4620",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비G4600",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비G4560",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비G3950",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 카비G3930",
+      "brand": "INTEL",
+      "series": "7세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3838"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I7 6700K",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 28000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I7 6700",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 32000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I5 6600K",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I5 6600",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I5 6500",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I5 6400",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 8000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I3 6320",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I3 6300",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이I3 6100",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이G4520",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이G4500",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이G4400",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이G3920",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 스카이G3900",
+      "brand": "INTEL",
+      "series": "6세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3682"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 브로드웰 5775C",
+      "brand": "INTEL",
+      "series": "5세대",
+      "price": 1,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3681"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 브로드웰 5675C",
+      "brand": "INTEL",
+      "series": "5세대",
+      "price": 1,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3681"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I7 4790K",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 45000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I7 4790",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I7 4770K",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I7 4770",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4690K",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4690",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 10000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4670K",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4670",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4590",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4570",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4460",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 8000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4450",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 7000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4440",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 7000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I5 4430",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 7000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4370",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4360",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4340",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4330",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4170",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4160",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4150",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰I3 4130",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3460",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3450",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3440",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3430",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3420",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3260",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3258",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3250",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3240",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G3220",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G1850",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G1840",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G1830",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하스웰G1820",
+      "brand": "INTEL",
+      "series": "4세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1684"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I7 3770K",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 28000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I7 3770",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 27000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I5 3570K",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 6000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I5 3570",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 6000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I5 3470",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 5000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I5 3550",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 5000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I5 3450",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I5 3350",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I5 3330",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I3 3250",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I3 3240",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I3 3220",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비I3 3210",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G2150",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G2130",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G2120",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G2030",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G2020",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G1630",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G1620",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 아이비G1610",
+      "brand": "INTEL",
+      "series": "3세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=1188"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I7 2700K",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 23000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I7 2600K",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 23000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I7 2600",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 23000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I5 2500K",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I5 2500",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I5 2400",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I5 2320",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I5 2310",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I5 2300",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I3 2130",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I3 2120",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I3 2105",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디I3 2100",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G870",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G860",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G850",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G840",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G645",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G640",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G630",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G620",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G550",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G540",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 샌디G530",
+      "brand": "INTEL",
+      "series": "2세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=993"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 린필드I7 880",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 린필드I7 875K",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 린필드I7 870",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 린필드I7 860",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 린필드I5 760",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 린필드I5 750",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 클락데일I5 661",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 클락데일I5 660",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 클락데일I5 650",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 클락데일I3 550",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 클락데일I3 540",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 클락데일I3 530",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 클락데일G6950",
+      "brand": "INTEL",
+      "series": "1세대",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=31"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 브로드웰I7 6900K",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 브로드웰I7 6800K",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 하스웰I7 5960X",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 2500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 하스웰I7 5930K",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 하스웰I7 5820K",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 1500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 아이비I7 4960X",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 아이비I7 4930K",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 1500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 아이비I7 4820K",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 샌디I7 3970X",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 샌디I7 3960X",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 1500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 샌디I7 3930K",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 하이엔드 샌디I7 3820",
+      "brand": "INTEL",
+      "series": "2011소켓",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3652"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 걸프타운I7 990X(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 걸프타운I7 980X(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 걸프타운I7 980(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 블룸필드I7 975(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 블룸필드I7 965(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 블룸필드I7 960(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 블룸필드I7 950(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 블룸필드I7 940(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 블룸필드I7 930(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 블룸필드I7 920(쿨러포함)",
+      "brand": "INTEL",
+      "series": "1366소켓",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3584"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q9650",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q9550",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 400,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q9500",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 300,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q9450",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드QX9650",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울프E7500",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울프E7600",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울프E8200",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울프E8300",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울프E8400",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울프E8500",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 울프E8600",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q6600",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q6700",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q8200",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q8300",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q8400",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q9300",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "Intel 쿼드Q9400",
+      "brand": "INTEL",
+      "series": "775소켓",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=9&ctgry_no3=3583"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 그래니트릿지 9950X3D2",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 700000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 그래니트릿지 9950X3D",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 450000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 그래니트 릿지 9850X3D",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 380000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 그래니트 릿지 9950X",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 350000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 그래니트 릿지 9900X3D",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 330000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 그래니트 릿지 9800X3D",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 그래니트 릿지 9900X",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 250000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 그래니트 릿지 9700X",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 170000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 그래니트 릿지 9600X",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 130000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 그래니트 릿지 9600",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 그래니트 릿지 9500F",
+      "brand": "AMD",
+      "series": "AMD 6세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4197"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 라파엘7950X3D",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 340000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 라파엘7950X",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 300000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 라파엘7900X3D",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 270000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 라파엘7900X",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 라파엘7900",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 140000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 라파엘7800X3D",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 210000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 라파엘7700X",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 140000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 라파엘7700",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 95000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 라파엘7600X",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 85000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 라파엘7600",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 라파엘7500F",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 60000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 피닉스8700G",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 140000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 피닉스8600G",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 피닉스8500G",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 피닉스8700F",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 피닉스8400F",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 라파엘7400F",
+      "brand": "AMD",
+      "series": "AMD 5세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4138"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 버미어5800X3D",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 200000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 버미어5950X",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 180000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 버미어5900X",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 버미어5700X3D",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 150000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 버미어5800X",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 120000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 버미어5700X",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 110000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 버미어5600X",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 85000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 버미어5600",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 세잔5700G",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 75000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 세잔5600G",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 세잔5500G",
+      "brand": "AMD",
+      "series": "AMD 4세대",
+      "price": 50000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=4072"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 르누아르4750G",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 80000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 르누아르4650G",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 르누아르4350G",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 55000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 르누아르4100",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 20000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠9 마티스3900X/XT",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 90000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 마티스3800X/XT",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 70000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 마티스3700X",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 65000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 마티스3600X/XT",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 42000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 마티스3600",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 40000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 마티스3500X",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 23000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 피카소3400G",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 피카소3200G",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 25000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 마티스3500",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 22000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 마티스3300X",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 13000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 마티스3100",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 12000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 마티스3000G",
+      "brand": "AMD",
+      "series": "AMD 3세대",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=30"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 피나클릿지2700X",
+      "brand": "AMD",
+      "series": "AMD 2세대",
+      "price": 37000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3945"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 피나클릿지2700",
+      "brand": "AMD",
+      "series": "AMD 2세대",
+      "price": 35000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3945"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 피나클릿지2600X",
+      "brand": "AMD",
+      "series": "AMD 2세대",
+      "price": 20000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3945"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 피나클릿지2600",
+      "brand": "AMD",
+      "series": "AMD 2세대",
+      "price": 19000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3945"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 레이븐릿지2400G",
+      "brand": "AMD",
+      "series": "AMD 2세대",
+      "price": 17000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3945"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 레이븐릿지2200G",
+      "brand": "AMD",
+      "series": "AMD 2세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3945"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 서밋릿지1800X",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 23000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 서밋릿지1700X",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 22000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠7 서밋릿지1700",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 22000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 서밋릿지1600X",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 9000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 서밋릿지1600",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 8000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 서밋릿지1500X",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠5 서밋릿지1400",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 서밋릿지1300X",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라이젠3 서밋릿지1200",
+      "brand": "AMD",
+      "series": "AMD 1세대",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=3943"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 카베리7850K",
+      "brand": "AMD",
+      "series": "FM2+",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1792"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 카베리7800",
+      "brand": "AMD",
+      "series": "FM2+",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1792"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 카베리7700K",
+      "brand": "AMD",
+      "series": "FM2+",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1792"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 카베리7600",
+      "brand": "AMD",
+      "series": "FM2+",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1792"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 카베리7400K",
+      "brand": "AMD",
+      "series": "FM2+",
+      "price": 500,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1792"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 리치랜드6800K",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 리치랜드6700",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 리치랜드6600K",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 리치랜드6500",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 리치랜드7300",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 리치랜드6400K",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 트리니티5800K",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 트리니티5700",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 트리니티5600K",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 트리니티5500",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 트리니티5400K",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 트리니티5300",
+      "brand": "AMD",
+      "series": "FM2",
+      "price": 200,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1236"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라노3850",
+      "brand": "AMD",
+      "series": "﻿FM1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1012"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라노3650",
+      "brand": "AMD",
+      "series": "﻿FM1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1012"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라노3500",
+      "brand": "AMD",
+      "series": "﻿FM1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1012"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라노3400",
+      "brand": "AMD",
+      "series": "﻿FM1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1012"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라노3300",
+      "brand": "AMD",
+      "series": "﻿FM1",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1012"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 비셰라8350",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 5000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 비셰라8300",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 비셰라6300",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 비셰라4300",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 잠베지8150",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 4000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 잠베지8120",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 3000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 잠베지6100",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 잠베지4100",
+      "brand": "AMD",
+      "series": "AM3+",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=1235"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 투반1100T",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 투반1090T",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 2000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 투반1075T",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 투반1055T",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 1000,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브 계열",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 조스마960T",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 프로푸스 이하 계열",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브925",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브945",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브955",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라나435",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라나445",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 레고르240",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 레고르245",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 레고르250",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 레고르255",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 레고르260",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 사르가스140",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 사르가스145",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 아제나9550",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 아제나9650",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 프로푸스620",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 프로푸스630",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 프로푸스635",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 프로푸스640",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 프로푸스645",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 헤카720",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브810",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브840",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 칼리스토550",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 칼리스토555",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 헤카705E",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 헤카710",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 라나425",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 레고르215",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브970",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브980",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브940",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    },
+    {
+      "category": "CPU",
+      "name": "AMD 데네브905e,920",
+      "brand": "AMD",
+      "series": "AM2/AM3",
+      "price": 100,
+      "unit": "EA",
+      "usage": "",
+      "source": "https://worldmemory.co.kr/price/computer.do?ctgry_no1=8&ctgry_no2=24&ctgry_no3=29"
+    }
+  ]
+}
