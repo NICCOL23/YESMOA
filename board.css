@@ -5,3 +5,4 @@ body > [hidden] { display: none !important; }
 .request-board .notice:empty { display:none; }
 
 @media (max-width:900px) { .nav-menu { display:flex; grid-column:1/-1; grid-row:2; gap:12px; flex-wrap:wrap; padding:6px 0; } .nav-menu a { font-size:11px; line-height:1.4; } .nav-call { grid-column:2; grid-row:1; } .request-board { margin-top:155px; scroll-margin-top:145px; } .canvas { padding-top:140px; } }
+.request-board #admin-auth{margin-top:16px}.request-board #unlock-form{max-width:500px;margin:24px 0}.request-board #admin-tools{margin:16px 0}.request-board td:nth-child(3){min-width:180px}.request-board td:nth-child(3)>button:not(.title-button){padding:5px 9px;margin-left:8px;font-size:12px}@media(max-width:700px){.request-board table{min-width:550px}}
