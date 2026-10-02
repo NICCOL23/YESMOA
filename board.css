@@ -3,3 +3,5 @@
 body > [hidden] { display: none !important; }
 .request-board { scroll-margin-top: 110px; }
 .request-board .notice:empty { display:none; }
+
+@media (max-width:900px) { .nav-menu { display:flex; grid-column:1/-1; grid-row:2; gap:12px; flex-wrap:wrap; padding:6px 0; } .nav-menu a { font-size:11px; line-height:1.4; } .nav-call { grid-column:2; grid-row:1; } .request-board { margin-top:155px; scroll-margin-top:145px; } .canvas { padding-top:140px; } }
