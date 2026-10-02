@@ -2123,3 +2123,12 @@ h1 {
 @media(max-width:1200px){.site-nav .nav-shell{grid-template-columns:1fr auto}.site-nav .nav-menu{grid-column:1/-1;grid-row:2;flex-wrap:wrap}.site-nav .nav-call{grid-column:2;grid-row:1}.site-nav .nav-brand{justify-self:start}}
 @media(max-width:600px){.site-nav .nav-shell{gap:8px}.site-nav .nav-brand{font-size:20px;letter-spacing:-.5px;gap:6px}.site-nav .brand-mark{width:26px;height:26px}.site-nav .nav-call{padding-inline:7px}.site-nav .nav-call-copy strong{font-size:14px}.site-nav .nav-phone-icon{display:none}.site-nav .nav-menu{gap:4px}.site-nav .nav-menu a{font-size:14px;padding:9px 7px}.request-board.request-board{margin-top:160px;scroll-margin-top:155px}.canvas.canvas{padding-top:155px}}
 @media(prefers-reduced-motion:reduce){.site-nav .nav-menu a{transition:none}}
+/* High-contrast slide navigation */
+.hero-swiper .hero-swiper-button{display:flex;align-items:center;justify-content:center;width:52px;height:52px;top:50%;margin-top:0;transform:translateY(-50%);border:1px solid rgba(255,255,255,.75);border-radius:50%;background:rgba(0,0,0,.58);color:#fff;opacity:1;box-shadow:0 3px 12px #0005;backdrop-filter:blur(3px);transition:background .18s,border-color .18s,box-shadow .18s}
+.hero-swiper .hero-swiper-button::after{font-size:23px;font-weight:900}
+.hero-swiper .hero-swiper-button svg{width:22px;height:22px;color:#fff;stroke:currentColor;stroke-width:1.5}
+.hero-swiper .swiper-button-prev{left:20px}.hero-swiper .swiper-button-next{right:20px}
+.hero-swiper .hero-swiper-button:hover{color:#fff;background:rgba(0,0,0,.82);border-color:#fff;transform:translateY(-50%);box-shadow:0 3px 16px #0008}
+.hero-swiper .hero-swiper-button:focus-visible{outline:3px solid #fff;outline-offset:4px;background:rgba(0,0,0,.85)}
+@media(max-width:600px){.hero-swiper .hero-swiper-button{width:44px;height:44px}.hero-swiper .hero-swiper-button svg{width:19px;height:19px}.hero-swiper .hero-swiper-button::after{font-size:20px}.hero-swiper .swiper-button-prev{left:10px}.hero-swiper .swiper-button-next{right:10px}}
+@media(prefers-reduced-motion:reduce){.hero-swiper .hero-swiper-button{transition:none}}
