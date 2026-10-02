@@ -36,3 +36,9 @@
 .catalog-fixed-top .catalog-filters>div{flex-wrap:nowrap;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;padding-bottom:7px}
 .catalog-filters strong,.catalog-filters button{flex-shrink:0;white-space:nowrap}
 @media(max-width:600px){.catalog-shell{height:95dvh;padding:0 10px 10px}.catalog-fixed-top{padding-top:14px;gap:6px}.catalog-fixed-top .catalog-close{right:0;top:6px;width:44px;height:44px;font-size:30px}.catalog-fixed-top .estimate-open{margin-right:50px}.catalog-fixed-top .catalog-search input{font-size:16px}.catalog-fixed-top .catalog-filters strong{min-width:66px}.catalog-fixed-top .catalog-tabs{margin-top:5px}}
+/* Consistent hover, selection and keyboard focus */
+.catalog-tabs button,.catalog-filters button{transition:color .18s,background .18s,border-color .18s,box-shadow .18s}
+.catalog-tabs button:hover,.catalog-filters button:hover{color:#075e4e;background:#def5ed;border-color:#139b7b}
+.catalog-tabs button[aria-pressed=true],.catalog-filters button[aria-pressed=true]{background:#0e735e;color:#fff;border-color:#0e735e;font-weight:800;box-shadow:inset 0 -3px 0 #69dfbb,0 2px 7px #0e735e25}
+.catalog-tabs button:focus-visible,.catalog-filters button:focus-visible{outline:3px solid #2470c7;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){.catalog-tabs button,.catalog-filters button{transition:none}}
