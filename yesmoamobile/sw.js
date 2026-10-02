@@ -1,5 +1,13 @@
-const CACHE='yesmoa-mobile-v5-storage';
-const CORE=['./','index.html','style.css','mobile-app.css','mobile-app.js','manifest.webmanifest','buyback.js?v=20261001-storage','buyback.css?v=20261001-compact','defect.js?v=20261001-quantity','defect.css?v=20261001-quantity','defect-data.js','purchase.js','purchase.css','security.js','security.css','spec-check.html','spec-check.css','spec-check.js','vendor/swiper-bundle.min.js','vendor/swiper-bundle.min.css','icons/icon-192.png','icons/icon-512.png'];
-self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE))));
-self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('yesmoa-mobile-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
-self.addEventListener('fetch',event=>{if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin||event.request.url.endsWith('.exe'))return;event.respondWith(fetch(event.request).then(response=>{if(response.ok){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(event.request,copy));}return response;}).catch(async()=>{const cached=await caches.match(event.request);if(cached)return cached;if(event.request.mode==='navigate')return caches.match('index.html');return Response.error();}));});
+// Use the common online site rather than a separate offline copy.
+self.addEventListener('install',()=>self.skipWaiting());
+self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));
+self.addEventListener('fetch',event=>{
+ if(event.request.method!=='GET'||event.request.mode!=='navigate')return;
+ const source=new URL(event.request.url);
+ if(source.origin!==self.location.origin)return;
+ if(source.pathname===new URL('./',self.location.href).pathname||source.pathname===new URL('index.html',self.location.href).pathname){
+  const target=new URL('../',self.location.href);target.search=source.search;
+  event.respondWith(Promise.resolve(Response.redirect(target.href,302)));
+ }else{event.respondWith(fetch(event.request));}
+});
+ㄴ
