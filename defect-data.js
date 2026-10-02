@@ -946,7 +946,7 @@ window.YESMOA_DEFECT_DATA = {
       "id": "defect-135"
     }
   ],
-  "website": "https://niccol23.github.io/YESMOA/",
+  "website": "https://yesmoa.kr/",
   "layout": {
     "left": [
       "컴퓨터 스크랩",
