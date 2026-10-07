@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="purchase.css">
   <link rel="stylesheet" href="security.css">
   <link rel="stylesheet" href="board.css?v=20261007-guide-actions-top">
+  <link rel="stylesheet" href="repair.css?v=20261007-repair">
 </head>
 <body>
   <header class="site-nav" aria-label="YESMOA-COM 상단 메뉴">
@@ -24,7 +25,7 @@
         <a href="#parts-price" data-open-price-modal>매입 단가표</a>
         <a href="#parts-price" data-open-price-modal>불량매입단가표</a>
         <a href="#security-title">데이터 파기</a>
-        <a href="spec-check.html">컴사양 자동체크</a>
+        <a href="#computer-repair">컴퓨터 수리</a>
       </nav>
 
       <a class="nav-call" href="tel:010-9550-4687" aria-label="매입 문의 전화 010-9550-4687">
@@ -183,7 +184,10 @@
     </div>
   </section>
 
-  <section class="security-summary" aria-labelledby="security-title">
+  <section class="repair-section" id="computer-repair" aria-labelledby="repair-title">
+<div class="repair-shell"><img class="repair-image" src="assets/computer-repair-bear.png" width="1536" height="1024" loading="lazy" alt="초록색 모자와 작업복을 입은 곰 캐릭터가 컴퓨터 본체와 부품을 점검하는 모습"><div class="repair-copy"><p class="repair-eyebrow">COMPUTER REPAIR</p><h2 id="repair-title">오랜 수리 경험으로,<br>컴퓨터의 문제를 살펴드립니다.</h2><p>전원이 켜지지 않을 때부터 느려진 컴퓨터까지.<br>증상을 확인하고 필요한 점검과 수리를 안내합니다.</p><p>전원 불량 · 화면 불량 · 속도 저하 · 재부팅 · 소음·발열 · 업그레이드</p><div class="repair-actions"><a class="repair-primary" href="tel:010-9550-4687">수리 상담 신청</a><button type="button" id="repair-toggle" aria-expanded="false" aria-controls="repair-details">수리 안내 보기</button></div><small>점검 후 수리 내용과 비용을 안내하고, 고객 동의 후 작업합니다.</small></div></div>
+<div class="repair-details" id="repair-details" hidden><h3>증상별 점검 안내</h3><div class="repair-symptoms"><article><h4>전원이 켜지지 않아요</h4><p>전원 연결과 전원 공급 장치, 주요 부품의 상태를 확인합니다.</p></article><article><h4>화면이 나오지 않아요</h4><p>모니터 연결 상태와 메모리·그래픽 관련 부품을 점검합니다.</p></article><article><h4>컴퓨터가 느려요</h4><p>저장장치와 메모리, 프로그램 상태를 살펴봅니다.</p></article><article><h4>꺼지거나 재부팅돼요</h4><p>발생 상황과 온도·전원·부품 상태를 확인합니다.</p></article><article><h4>소음·발열이 심해요</h4><p>냉각팬과 먼지, 냉각 상태를 점검합니다.</p></article><article><h4>업그레이드 상담</h4><p>사용 목적과 예산에 맞는 호환 부품을 안내합니다.</p></article></div><h3>수리는 이렇게 진행됩니다</h3><ol class="repair-steps"><li><strong>증상 상담</strong><p>제품과 발생한 증상을 알려 주세요.</p></li><li><strong>접수·점검</strong><p>접수 방법을 협의하고 상태를 확인합니다.</p></li><li><strong>비용 안내·동의</strong><p>작업 내용과 비용을 안내하고 고객 동의를 확인합니다.</p></li><li><strong>수리·제품 인도</strong><p>작동 상태를 확인하고 제품을 돌려드립니다.</p></li></ol><h3>접수 준비</h3><p>중요한 자료는 미리 백업해 주세요. 증상 발생 상황과 오류 화면을 알려주시면 상담에 도움이 됩니다. 필요한 구성품과 접수 장소는 상담 시 안내합니다.</p><h3>자주 묻는 질문</h3><details><summary>점검만 받아도 되나요?</summary><p>점검만 원하시는 경우 상담 시 알려 주세요. 점검 비용은 접수 전에 안내합니다.</p></details><details><summary>점검 후 수리하지 않으면 비용이 있나요?</summary><p>점검비와 수리하지 않을 경우의 비용은 사전 상담을 통해 안내합니다.</p></details><details><summary>수리는 얼마나 걸리나요?</summary><p>증상과 부품 준비 상황에 따라 달라집니다. 점검 후 예상 일정을 안내합니다.</p></details><details><summary>저장된 자료는 어떻게 되나요?</summary><p>중요한 자료는 미리 백업해 주세요. 초기화나 저장장치 교체가 필요한 경우 작업 전에 안내하고 협의합니다.</p></details><details><summary>교체한 부품은 돌려받을 수 있나요?</summary><p>기존 부품의 반환을 원하시면 작업 전에 알려 주세요. 반환 방법은 상담 후 안내합니다.</p></details><details><summary>수리 후 같은 증상이 생기면 어떻게 하나요?</summary><p>작업 내용과 재발한 증상을 알려 주세요. 보증 범위와 처리 기준은 수리 접수 시 안내합니다.</p></details></div></section>
+<section class="security-summary" aria-labelledby="security-title">
     <div class="security-shell">
       <figure class="security-image">
         <img src="assets/before-you-sell-checkup.png" alt="판매 전 노트북 점검과 자료 백업 안내 캐릭터 이미지">
@@ -356,9 +360,10 @@
   <script src="defect.js?v=20261007-prices"></script>
   <script src="purchase.js"></script>
   <script src="security.js"></script>
-<script src="video-card.js?v=20261001-public"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script><script src="board.js?v=20261007-prices"></script><script>
+<script src="video-card.js?v=20261001-public"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script><script src="board.js?v=20261007-repair"></script><script>
 (()=>{const menu=document.querySelector('.nav-menu');const select=a=>{menu.querySelectorAll('a').forEach(e=>e.removeAttribute('aria-current'));if(a)a.setAttribute('aria-current','page');};menu.addEventListener('click',e=>{const a=e.target.closest('a');if(a)select(a);});const fromHash=()=>{const hash=location.hash;if(hash==='#parts-price'){if(!menu.querySelector('[aria-current]'))select(menu.querySelector('a'));}else select([...menu.querySelectorAll('a')].find(a=>a.getAttribute('href')===hash));};window.addEventListener('hashchange',fromHash);document.addEventListener('click',e=>{const b=e.target.closest('button');if(b&&b.textContent.includes('시세표 보기'))select([...menu.querySelectorAll('a')].find(a=>a.textContent.includes(b.textContent.includes('불량')?'불량':'매입 단가표')));});fromHash();})();
-</script></body>
+</script><script src="repair.js?v=20261007-repair"></script>
+</body>
 </html>
 
 
