@@ -5,3 +5,5 @@
 
 
 body.repair-page .repair-section{margin-top:calc(var(--request-nav-bottom, 110px) + 16px);min-height:70vh}body.repair-page .repair-section{scroll-margin-top:calc(var(--request-nav-bottom, 110px) + 16px)}
+
+.repair-reference{max-width:1200px;margin:0 auto 40px}.repair-reference a{display:block}.repair-reference img{display:block;width:100%;height:auto;border-radius:12px}.repair-reference figcaption{font-size:13px;line-height:1.7;color:var(--muted);margin-top:12px}.repair-reference a:focus-visible{outline:3px solid #93c5fd;outline-offset:4px}@media(max-width:700px){.repair-reference{margin-bottom:28px}.repair-reference figcaption{font-size:12px}}
