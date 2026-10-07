@@ -106,3 +106,5 @@ body > [hidden] { display: none !important; }
 
 /* Expanded method guidance and accessible FAQ. */
 .request-board #request-guide-content h3{font-size:15px;margin:16px 0 6px}.request-board #request-guide-content ul{font-size:14px;margin:8px 0;padding-left:24px}.request-board #request-guide-content li{margin:5px 0;line-height:1.6}.request-board .guide-faq{margin-bottom:12px}.request-board .guide-faq details{background:white;border-bottom:1px solid var(--line);padding:0}.request-board .guide-faq summary{padding:12px;min-height:44px;box-sizing:border-box;font-size:14px;line-height:1.6;cursor:pointer}.request-board .guide-faq details p{padding:0 12px 12px;line-height:1.6}.request-board #request-guide-content h2{scroll-margin-top:calc(var(--request-nav-bottom) + var(--request-list-heading-height) + 12px)}
+
+.request-board .request-guide-actions{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}.request-board .request-guide-actions [hidden]{display:none}@media(max-width:700px){.request-board .request-guide-actions{flex-basis:100%}}
