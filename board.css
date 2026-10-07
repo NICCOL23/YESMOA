@@ -90,3 +90,9 @@ body > [hidden] { display: none !important; }
  .request-board.is-writing #request-body{min-height:240px}
  .request-board.is-writing #request-write>h2{font-size:22px}
 }
+
+/* Keep actions visible when validation messages or browser chrome reduce space. */
+.request-board.is-writing form.request-form{padding-bottom:88px}
+.request-board.is-writing .request-form>.toolbar{position:fixed;bottom:0;left:var(--request-heading-left);width:var(--request-heading-width);box-sizing:border-box;z-index:25;margin:0;padding:12px 0 calc(12px + env(safe-area-inset-bottom));background:#fff;border-top:1px solid var(--line);box-shadow:0 -6px 16px #1722300a}
+.request-board.is-writing input,.request-board.is-writing select,.request-board.is-writing textarea,.request-board.is-writing .request-privacy{scroll-margin-bottom:110px;scroll-margin-top:calc(var(--request-nav-bottom,100px) + 70px)}
+@media(max-width:700px){.request-board.is-writing .request-form>.toolbar{justify-content:stretch}.request-board.is-writing .request-form>.toolbar button{flex:1;min-width:0;padding:10px 12px}.request-board.is-writing form.request-form{padding-bottom:calc(88px + env(safe-area-inset-bottom))}}
