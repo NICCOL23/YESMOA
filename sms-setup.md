@@ -13,10 +13,12 @@ live_ready=false이면 신규 접수는 모의 발송 기록만 만들며 외부
 3. Supabase Secrets에 SOLAPI_API_KEY, SOLAPI_API_SECRET, SOLAPI_SENDER_NUMBER,
    SMS_WORKER_TOKEN(충분히 긴 임의 비밀값), SMS_LIVE_ENABLED=false를 설정합니다.
    비밀값을 공개 저장소, SQL 쿼리 이력, 프런트엔드 또는 채팅에 붙여넣지 않습니다.
-4. Supabase Cron에서 1분 간격으로 Edge Function을 호출하도록 설정합니다.
+4. sms-schedule.sql로 설치한 Supabase Cron은 1분 간격으로 확인합니다.
+   live_ready=false일 때는 외부 호출 없이 종료합니다.
    POST URL: 프로젝트 /functions/v1/sms-notifications
-   x-sms-worker-token 헤더: Vault에 보관한 SMS_WORKER_TOKEN 값.
-   Authorization Bearer 헤더에도 Supabase 서버용 JWT를 Vault에서 읽어 전달합니다.
+   x-sms-worker-token 헤더: Vault의 yesmoa_sms_worker_token에 SMS_WORKER_TOKEN과 동일한 값을 저장합니다.
+   Vault의 yesmoa_sms_gateway_jwt에 플랫폼 검증을 통과하는 서버용 legacy JWT를 저장합니다.
+   Authorization Bearer 헤더는 이 Vault 값을 사용합니다.
    함수는 플랫폼 JWT 검증과 별도로 이 비밀 헤더를 검증합니다. 토큰 없이 호출하면 401입니다.
    pg_cron / pg_net과 Vault 사용: https://supabase.com/docs/guides/functions/schedule-functions
 5. 사용자 확인 후 SMS_LIVE_ENABLED=true를 설정하고 sms_settings.live_ready=true를
