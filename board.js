@@ -67,7 +67,7 @@ function updateAdminScreen(){
  $('#new-request').hidden=admin||$('#request-list').hidden;
  if(admin&&!isAdmin)for(const id of ['list','write','detail','unlock','edit'])$('#request-'+id).hidden=true;
 }
-function route(){if(priceManager&&!priceManager.guardRoute())return;const guideDialog=document.querySelector('dialog.purchase-dialog');if(guideDialog?.open)guideDialog.close();closeGuide();const open=location.hash.startsWith('#requests')||adminRoute();root.hidden=!open;originals.forEach(el=>{el.hidden=open;});
+function route(){if(priceManager&&!priceManager.guardRoute())return;const guideDialog=document.querySelector('dialog.purchase-dialog');if(guideDialog?.open)guideDialog.close();closeGuide();const open=location.hash.startsWith('#requests')||adminRoute();root.hidden=!open;const repair=location.hash==='#computer-repair';originals.forEach(el=>{el.hidden=(open||repair)&&!(repair&&el.id==='computer-repair');});
  $('#detail-content').replaceChildren();$('#edit-fields').replaceChildren();detailData=null;editingId=null;selectedId=null;trash=false;page=1;status('');
  if(!adminRoute()){smsPanel.open=false;$('#sms-form').reset();$('#sms-logs').replaceChildren();}
  if(open){view(location.hash==='#requests/new'?'write':'list');updateAdminScreen();if(location.hash!=='#requests/new')loadList();root.scrollIntoView();}}
