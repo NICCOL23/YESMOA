@@ -11,6 +11,36 @@ body > [hidden] { display: none !important; }
 @media (max-width:900px) { .nav-menu { display:flex; grid-column:1/-1; grid-row:2; gap:12px; flex-wrap:wrap; padding:6px 0; } .nav-menu a { font-size:11px; line-height:1.4; } .nav-call { grid-column:2; grid-row:1; } .request-board { margin-top:155px; scroll-margin-top:145px; } .canvas { padding-top:140px; } }
 .request-board #admin-auth{margin-top:16px}.request-board #unlock-form{max-width:500px;margin:24px 0}.request-board #admin-tools{margin:16px 0}.request-board td:nth-child(3){min-width:180px}.request-board td:nth-child(3)>button:not(.title-button){padding:5px 9px;margin-left:8px;font-size:12px}@media(max-width:700px){.request-board table{min-width:550px}}
 /* Keep the same information on phones and desktop screens. */
+.request-board.is-writing{margin-top:calc(var(--request-nav-bottom,100px) + 12px);padding:16px 24px;min-height:0;scroll-margin-top:var(--request-nav-bottom,100px)}
+.request-board.is-writing>.kicker,.request-board.is-writing>h1,.request-board.is-writing>p:not(#board-status){display:none}
+.request-board #request-write{padding-top:58px}
+.request-board #request-write>h2{position:fixed;top:var(--request-nav-bottom,100px);left:var(--request-heading-left);width:var(--request-heading-width);box-sizing:border-box;z-index:20;background:#fff;margin:0;padding:10px 0 12px;border-bottom:1px solid var(--line);font-size:24px}
+.request-board form.request-form{max-width:none;margin:14px 0 0}
+.request-board #request-fields{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:24px;align-items:stretch}
+.request-information{display:grid;grid-template-columns:1fr 1fr;gap:8px 14px;min-width:0}
+.request-board .request-information>div,.request-body-field{min-width:0}
+.request-board #request-fields label{font-size:14px;margin-bottom:5px}
+.request-board #request-fields input,.request-board #request-fields select{padding:6px 10px;min-height:36px;box-sizing:border-box}
+.request-board .request-body-field{display:flex;flex-direction:column}
+.request-board #request-body{flex:1;min-height:220px;resize:vertical;box-sizing:border-box}
+.request-board .request-form .error:empty{display:none}
+.request-board .request-privacy{margin-top:14px;padding:12px 14px;background:var(--section);border-radius:10px;font-size:13px}
+.request-board .request-privacy p{margin:0 0 6px;line-height:1.5}
+.request-board .request-privacy summary{cursor:pointer;color:var(--green);padding:4px 0;margin-bottom:6px}
+.request-board .request-privacy .consent{margin:8px 0 4px;font-size:14px}
+.request-board .request-form>.toolbar{margin:12px 0;justify-content:flex-end}
+.request-board>.auth{padding:8px 12px;margin-top:14px;border-radius:9px;font-size:13px}
+.request-board>.auth button{font-size:13px;padding:7px 12px;min-height:34px}
+.request-board>.auth #admin-auth{margin-top:8px}
+.request-board>.auth input{padding:8px 10px}
+@media(max-width:700px){
+ .request-board.is-writing{margin-top:calc(var(--request-nav-bottom,160px) + 12px);padding:12px 16px}
+ .request-board #request-fields{grid-template-columns:1fr;gap:16px}
+ .request-board .request-information{grid-template-columns:1fr}
+ .request-board #request-body{min-height:180px}
+ .request-board #request-write>h2{font-size:21px}
+ .request-board>.auth button{min-height:44px}
+}
 @media(max-width:700px){
  .request-board th:first-child,.request-board td:first-child,.request-board th:last-child,.request-board td:last-child{display:table-cell}
  .request-board .fields>div{min-width:0}
