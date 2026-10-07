@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="defect.css?v=20261002-fixed-controls">
   <link rel="stylesheet" href="purchase.css">
   <link rel="stylesheet" href="security.css">
-  <link rel="stylesheet" href="board.css?v=20261007-fixed-actions">
+  <link rel="stylesheet" href="board.css?v=20261007-compact-board">
 </head>
 <body>
   <header class="site-nav" aria-label="YESMOA-COM 상단 메뉴">
@@ -23,7 +23,6 @@
       <nav class="nav-menu" aria-label="주요 메뉴">
         <a href="#parts-price" data-open-price-modal>매입 단가표</a>
         <a href="#parts-price" data-open-price-modal>불량매입단가표</a>
-        <a href="#process-title">매입절차</a>
         <a href="#security-title">데이터 파기</a>
         <a href="spec-check.html">컴사양 자동체크</a>
       </nav>
@@ -356,7 +355,7 @@
   <script src="defect.js?v=20261001-quantity"></script>
   <script src="purchase.js"></script>
   <script src="security.js"></script>
-<script src="video-card.js?v=20261001-public"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script><script src="board.js?v=20261007-fixed-actions"></script><script>
+<script src="video-card.js?v=20261001-public"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script><script src="board.js?v=20261007-compact-board"></script><script>
 (()=>{const menu=document.querySelector('.nav-menu');const select=a=>{menu.querySelectorAll('a').forEach(e=>e.removeAttribute('aria-current'));if(a)a.setAttribute('aria-current','page');};menu.addEventListener('click',e=>{const a=e.target.closest('a');if(a)select(a);});const fromHash=()=>{const hash=location.hash;if(hash==='#parts-price'){if(!menu.querySelector('[aria-current]'))select(menu.querySelector('a'));}else select([...menu.querySelectorAll('a')].find(a=>a.getAttribute('href')===hash));};window.addEventListener('hashchange',fromHash);document.addEventListener('click',e=>{const b=e.target.closest('button');if(b&&b.textContent.includes('시세표 보기'))select([...menu.querySelectorAll('a')].find(a=>a.textContent.includes(b.textContent.includes('불량')?'불량':'매입 단가표')));});fromHash();})();
 </script></body>
 </html>
