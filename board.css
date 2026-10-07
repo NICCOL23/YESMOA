@@ -57,3 +57,5 @@ body > [hidden] { display: none !important; }
 .request-board .request-privacy {margin-top:10px;padding-top:10px;padding-bottom:10px;}
 
 .request-board #sms-settings{margin-top:12px;padding:10px 12px;border:1px solid var(--line);border-radius:9px;font-size:13px}.request-board #sms-settings summary{cursor:pointer;color:var(--green)}.request-board #sms-form{max-width:500px;margin-top:12px}.request-board #sms-form input[type=tel]{box-sizing:border-box}.request-board #sms-form .consent{margin-top:12px;align-items:center}.request-board #sms-logs{padding-left:20px;overflow-wrap:anywhere}.request-board #sms-settings h3{font-size:14px}
+
+.request-board.is-admin>.auth{margin:16px 0;padding:16px}.request-board.is-admin>.auth #admin-auth{margin:0}.request-board.is-admin>.kicker,.request-board.is-admin>p:not(#board-status){display:none}.request-board .customer-return{display:inline-block;margin-top:20px;color:var(--green)}.request-board.is-admin #account{margin-bottom:12px;overflow-wrap:anywhere}.request-board.is-admin #logout{margin-top:12px}
