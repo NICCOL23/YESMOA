@@ -55,3 +55,5 @@ body > [hidden] { display: none !important; }
 .request-board .title-help {line-height:1.3;margin-top:4px;}
 .request-board .request-information {row-gap:6px;}
 .request-board .request-privacy {margin-top:10px;padding-top:10px;padding-bottom:10px;}
+
+.request-board #sms-settings{margin-top:12px;padding:10px 12px;border:1px solid var(--line);border-radius:9px;font-size:13px}.request-board #sms-settings summary{cursor:pointer;color:var(--green)}.request-board #sms-form{max-width:500px;margin-top:12px}.request-board #sms-form input[type=tel]{box-sizing:border-box}.request-board #sms-form .consent{margin-top:12px;align-items:center}.request-board #sms-logs{padding-left:20px;overflow-wrap:anywhere}.request-board #sms-settings h3{font-size:14px}

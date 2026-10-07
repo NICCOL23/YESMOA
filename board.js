@@ -41,6 +41,14 @@ $('.request-form').insertAdjacentHTML('beforeend',`<div class="request-privacy">
 $('.request-form').append($('.request-form > .toolbar'));
 const authBox=$('.auth');root.append(authBox);
 $('#show-admin').setAttribute('aria-controls','admin-auth');$('#show-admin').setAttribute('aria-expanded','false');
+const smsPanel=document.createElement('details');smsPanel.id='sms-settings';smsPanel.hidden=true;
+smsPanel.innerHTML='<summary>문자 알림 설정</summary><form id="sms-form" autocomplete="off"><label for="sms-recipient">관리자 수신 휴대폰 번호</label><input id="sms-recipient" type="tel" inputmode="tel" maxlength="13" placeholder="수신 번호를 입력해 주세요" autocomplete="off"><label class="consent"><input id="sms-enabled" type="checkbox">새 신청 문자 알림 켜기</label><button type="submit">설정 저장</button></form><p id="sms-mode"></p><p id="sms-status" role="status" aria-live="polite"></p><h3>최근 알림 처리 기록</h3><ul id="sms-logs"></ul>';
+root.append(smsPanel);
+const smsLabels={pending:'처리 대기',processing:'발송 처리 중',simulated:'모의 발송 완료 (실제 문자 없음)',accepted:'문자 서비스 접수 완료',failed:'발송 실패',unknown:'발송 결과 확인 필요',skipped:'알림 꺼짐 — 발송 안 함'};
+function showSmsSettings(data){$('#sms-recipient').value=data.recipient||'';$('#sms-enabled').checked=data.enabled===true;$('#sms-mode').textContent=data.live_ready?'실제 문자 발송 설정 · 수신 번호 변경은 이후 신청부터 적용됩니다.':'서비스 준비 중 · 모의 발송 상태입니다. 실제 문자는 발송되지 않습니다.';$('#sms-logs').replaceChildren();for(const log of data.logs||[]){const li=document.createElement('li');li.textContent=new Date(log.created_at).toLocaleString('ko-KR')+' · '+(smsLabels[log.status]||'확인 필요')+(log.result_code?' · '+log.result_code:'');$('#sms-logs').append(li);}if(!data.logs?.length)$('#sms-logs').textContent='아직 알림 처리 기록이 없습니다.';}
+async function loadSmsSettings(){if(!isAdmin)return;const revision=authRevision;const {data,error}=await client.rpc('yesmoa_sms_settings_get');if(revision!==authRevision||!isAdmin)return;if(error){$('#sms-status').textContent='문자 알림 설정을 불러오지 못했습니다. 잠시 후 다시 열어주세요.';return;}showSmsSettings(data);}
+smsPanel.addEventListener('toggle',()=>{if(smsPanel.open)loadSmsSettings();});
+$('#sms-form').onsubmit=async e=>{e.preventDefault();if(!isAdmin)return;const button=e.target.querySelector('button');if(button.disabled)return;const phone=$('#sms-recipient').value.replace(/[\s-]/g,'');const enabled=$('#sms-enabled').checked;if((phone&&!/^01[016789][0-9]{7,8}$/.test(phone))||(enabled&&!phone)){$('#sms-status').textContent='올바른 휴대폰 번호를 입력해주세요.';$('#sms-recipient').focus();return;}button.disabled=true;const revision=authRevision;try{const {data,error}=await client.rpc('yesmoa_sms_settings_save',{p_recipient:phone,p_enabled:enabled});if(error)throw error;if(revision!==authRevision||!isAdmin)return;showSmsSettings(data);$('#sms-status').textContent='설정을 저장했습니다. 이후 접수되는 신청부터 적용됩니다.';}catch{if(revision===authRevision)$('#sms-status').textContent='저장하지 못했습니다. 입력 내용은 유지됩니다.';}finally{button.disabled=false;}};
 function updateNavigationOffset(){const bottom=document.querySelector('.site-nav').getBoundingClientRect().bottom;root.style.setProperty('--request-nav-bottom',Math.max(0,bottom)+8+'px');const box=root.getBoundingClientRect();const padding=parseFloat(getComputedStyle(root).paddingLeft);root.style.setProperty('--request-heading-left',box.left+padding+'px');root.style.setProperty('--request-heading-width',Math.max(0,root.clientWidth-padding*2)+'px');}
 new ResizeObserver(updateNavigationOffset).observe(document.querySelector('.site-nav'));window.addEventListener('resize',updateNavigationOffset);updateNavigationOffset();
 function view(which){root.classList.toggle('is-writing',which==='write');updateNavigationOffset();for(const id of ['list','write','detail','unlock','edit'])$('#request-'+id).hidden=id!==which;root.querySelector('h1').focus();}
@@ -93,7 +101,7 @@ async function init(){if(location.hash.startsWith('#requests#'))history.replaceS
  $('#account').textContent=user?'로그인 완료 · 관리자 권한 확인 중 · '+user.email:'로그인되지 않았습니다. 이메일의 로그인 링크를 열어주세요.';
  $('#login-form').hidden=!!user;$('#logout').hidden=!user;
  $('#show-admin').textContent=user?'관리자 권한 확인 중':'관리자 로그인';
- $('#admin-tools').hidden=true;$('#toggle-trash').textContent='삭제한 글 보기';
+ $('#admin-tools').hidden=true;smsPanel.hidden=true;smsPanel.open=false;$('#sms-form').reset();$('#sms-logs').replaceChildren();$('#sms-mode').textContent='';$('#sms-status').textContent='';$('#toggle-trash').textContent='삭제한 글 보기';
  $('#detail-content').replaceChildren();detailData=null;editingId=null;
  if(location.hash.startsWith('#requests'))view('list');
  if(!user){loadList();return;}
@@ -105,7 +113,7 @@ async function init(){if(location.hash.startsWith('#requests#'))history.replaceS
   isAdmin=!error&&data===true;
   $('#account').textContent=(error?'관리자 권한 확인 실패 · ':isAdmin?'관리자 로그인 완료 · ':'일반 계정 로그인 완료 · ')+user.email;
   $('#show-admin').textContent=isAdmin?'관리자 로그인 완료':'로그인 계정 보기';
-  $('#admin-tools').hidden=!isAdmin;page=1;
+  $('#admin-tools').hidden=!isAdmin;smsPanel.hidden=!isAdmin;page=1;
   if(error)status('관리자 권한을 확인하지 못했습니다. 새로고침 후 다시 확인해주세요.');
   else status(isAdmin?'관리자로 로그인했습니다. 신청을 수정하거나 삭제할 수 있습니다.':'로그인했습니다. 이 계정에는 관리자 권한이 없습니다.');
   loadList();
