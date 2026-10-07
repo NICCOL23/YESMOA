@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="defect.css?v=20261002-fixed-controls">
   <link rel="stylesheet" href="purchase.css">
   <link rel="stylesheet" href="security.css">
-  <link rel="stylesheet" href="board.css?v=20261007-fixed-list-heading">
+  <link rel="stylesheet" href="board.css?v=20261007-method-faq">
 </head>
 <body>
   <header class="site-nav" aria-label="YESMOA-COM 상단 메뉴">
@@ -355,7 +355,7 @@
   <script src="defect.js?v=20261001-quantity"></script>
   <script src="purchase.js"></script>
   <script src="security.js"></script>
-<script src="video-card.js?v=20261001-public"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script><script src="board.js?v=20261007-fixed-list-heading"></script><script>
+<script src="video-card.js?v=20261001-public"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script><script src="board.js?v=20261007-method-faq"></script><script>
 (()=>{const menu=document.querySelector('.nav-menu');const select=a=>{menu.querySelectorAll('a').forEach(e=>e.removeAttribute('aria-current'));if(a)a.setAttribute('aria-current','page');};menu.addEventListener('click',e=>{const a=e.target.closest('a');if(a)select(a);});const fromHash=()=>{const hash=location.hash;if(hash==='#parts-price'){if(!menu.querySelector('[aria-current]'))select(menu.querySelector('a'));}else select([...menu.querySelectorAll('a')].find(a=>a.getAttribute('href')===hash));};window.addEventListener('hashchange',fromHash);document.addEventListener('click',e=>{const b=e.target.closest('button');if(b&&b.textContent.includes('시세표 보기'))select([...menu.querySelectorAll('a')].find(a=>a.textContent.includes(b.textContent.includes('불량')?'불량':'매입 단가표')));});fromHash();})();
 </script></body>
 </html>

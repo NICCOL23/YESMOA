@@ -1,7 +1,7 @@
 (() => {
 'use strict';
 const root=document.createElement('main');root.className='request-board';root.hidden=true;
-root.innerHTML=`<div class="request-list-heading"><div class="request-heading-copy"><h1 tabindex="-1">매입 신청</h1><p class="request-intro">판매할 중고 물품을 등록하면 확인 후 연락드립니다.</p></div><button class="primary" id="new-request">매입 신청하기</button></div><p class="notice" id="board-status" role="status" aria-live="polite"></p><section class="auth"><button id="show-admin" type="button">관리자 로그인</button><div id="admin-auth" hidden><div id="account"></div><form id="login-form"><label for="login-email">관리자 이메일</label><input id="login-email" type="email" required autocomplete="email" placeholder="로그인 링크를 받을 이메일"><button type="submit">로그인 링크 받기</button></form><button id="logout" hidden>로그아웃</button></div></section><section id="request-list"><section class="request-guide" aria-label="매입 절차 안내"><strong>처음 신청하시나요? 매입 절차를 확인하세요.</strong><div class="request-guide-buttons"><button type="button" data-guide="visit" aria-expanded="false" aria-controls="request-guide-content">직접 방문</button><button type="button" data-guide="parcel" aria-expanded="false" aria-controls="request-guide-content">택배 발송·수거</button><button type="button" data-guide="pickup" aria-expanded="false" aria-controls="request-guide-content">출장 매입</button><button type="button" data-guide="quick" aria-expanded="false" aria-controls="request-guide-content">카카오 T 퀵</button></div><div id="request-guide-content" hidden><h2></h2><p></p><ol></ol><button type="button" data-open-purchase>전체 매입 절차 보기</button> <button type="button" id="close-request-guide">안내 접기</button></div></section><div id="admin-tools" hidden><button id="toggle-trash">삭제한 글 보기</button></div><div class="table-wrap"><table><thead><tr><th>번호</th><th>분류</th><th>제목</th><th>작성자</th><th>작성일</th><th>조회수</th></tr></thead><tbody id="request-rows"></tbody></table></div><div class="pagination"><button id="previous">이전</button><span id="page-label"></span><button id="next">다음</button></div></section><section id="request-write" hidden><h2>매입 신청서 작성</h2><form class="request-form" autocomplete="off" novalidate><div class="fields" id="request-fields"></div><div class="toolbar"><button type="button" class="back-list">목록으로</button><button type="submit" class="primary" id="request-submit">신청 등록</button></div></form></section><section id="request-unlock" hidden><h2>신청 내용 확인</h2><form id="unlock-form"><label for="unlock-password">비밀번호</label><input id="unlock-password" type="password" autocomplete="off" required><p class="error" id="unlock-error" role="alert"></p><div class="toolbar"><button type="button" class="back-list">목록으로</button><button type="submit" class="primary">확인</button></div></form><p>등록할 때 정한 비밀번호를 입력하세요. 비밀번호를 아는 사람은 이 글을 볼 수 있습니다.</p><div id="legacy-auth" hidden><p>기존 이메일 인증으로 등록한 글입니다. 기존 작성자 또는 관리자가 로그인해야 합니다.</p><button id="legacy-login">기존 계정 로그인</button></div></section><section id="request-detail" hidden><h2>신청 상세</h2><div id="detail-content"></div><button class="back-list">목록으로</button></section>`;
+root.innerHTML=`<div class="request-list-heading"><div class="request-heading-copy"><h1 tabindex="-1">매입 신청</h1><p class="request-intro">판매할 중고 물품을 등록하면 확인 후 연락드립니다.</p></div><button class="primary" id="new-request">매입 신청하기</button></div><p class="notice" id="board-status" role="status" aria-live="polite"></p><section class="auth"><button id="show-admin" type="button">관리자 로그인</button><div id="admin-auth" hidden><div id="account"></div><form id="login-form"><label for="login-email">관리자 이메일</label><input id="login-email" type="email" required autocomplete="email" placeholder="로그인 링크를 받을 이메일"><button type="submit">로그인 링크 받기</button></form><button id="logout" hidden>로그아웃</button></div></section><section id="request-list"><section class="request-guide" aria-label="매입 절차 안내"><strong>처음 신청하시나요? 매입 절차를 확인하세요.</strong><div class="request-guide-buttons"><button type="button" data-guide="visit" aria-expanded="false" aria-controls="request-guide-content">직접 방문</button><button type="button" data-guide="parcel" aria-expanded="false" aria-controls="request-guide-content">택배 발송·수거</button><button type="button" data-guide="pickup" aria-expanded="false" aria-controls="request-guide-content">출장 매입</button><button type="button" data-guide="quick" aria-expanded="false" aria-controls="request-guide-content">카카오 T 퀵</button></div><div id="request-guide-content" hidden><h2></h2><p class="guide-intro"></p><h3>진행 순서</h3><ol class="guide-steps"></ol><h3>준비 사항</h3><ul class="guide-preparation"></ul><h3>자주 묻는 질문</h3><div class="guide-faq"></div><button type="button" data-open-purchase>전체 매입 절차 보기</button> <button type="button" id="close-request-guide">안내 접기</button></div></section><div id="admin-tools" hidden><button id="toggle-trash">삭제한 글 보기</button></div><div class="table-wrap"><table><thead><tr><th>번호</th><th>분류</th><th>제목</th><th>작성자</th><th>작성일</th><th>조회수</th></tr></thead><tbody id="request-rows"></tbody></table></div><div class="pagination"><button id="previous">이전</button><span id="page-label"></span><button id="next">다음</button></div></section><section id="request-write" hidden><h2>매입 신청서 작성</h2><form class="request-form" autocomplete="off" novalidate><div class="fields" id="request-fields"></div><div class="toolbar"><button type="button" class="back-list">목록으로</button><button type="submit" class="primary" id="request-submit">신청 등록</button></div></form></section><section id="request-unlock" hidden><h2>신청 내용 확인</h2><form id="unlock-form"><label for="unlock-password">비밀번호</label><input id="unlock-password" type="password" autocomplete="off" required><p class="error" id="unlock-error" role="alert"></p><div class="toolbar"><button type="button" class="back-list">목록으로</button><button type="submit" class="primary">확인</button></div></form><p>등록할 때 정한 비밀번호를 입력하세요. 비밀번호를 아는 사람은 이 글을 볼 수 있습니다.</p><div id="legacy-auth" hidden><p>기존 이메일 인증으로 등록한 글입니다. 기존 작성자 또는 관리자가 로그인해야 합니다.</p><button id="legacy-login">기존 계정 로그인</button></div></section><section id="request-detail" hidden><h2>신청 상세</h2><div id="detail-content"></div><button class="back-list">목록으로</button></section>`;
 document.querySelector('.site-nav').after(root);
 const originals=[...document.body.children].filter(el=>el!==root&&el.tagName!=='SCRIPT'&&!el.matches('.site-nav,dialog'));
 const $=s=>root.querySelector(s);const status=text=>$('#board-status').textContent=text;
@@ -69,9 +69,177 @@ function route(){const guideDialog=document.querySelector('dialog.purchase-dialo
  if(!adminRoute()){smsPanel.open=false;$('#sms-form').reset();$('#sms-logs').replaceChildren();}
  if(open){view(location.hash==='#requests/new'?'write':'list');updateAdminScreen();if(location.hash!=='#requests/new')loadList();root.scrollIntoView();}}
 
-const guideData={visit:['직접 방문','방문 날짜와 시간을 먼저 협의한 뒤 제품을 가져오는 방법입니다. 부품과 구성품을 함께 준비하세요.',['방문 일정과 주소를 확인합니다.','제품 수량·구성품을 확인하고 중요한 자료를 백업합니다.','제품 검수 후 최종 금액과 정산 조건을 확인합니다.']],parcel:['택배 발송·수거','작은 부품이나 소량 제품을 포장해 보내는 방법입니다. 발송 또는 수거 가능 여부와 수령 주소·운송비 조건을 먼저 확인하세요.',['제품 모델명·수량과 작동 상태를 알려주세요.','부품을 개별 보호 포장하고 빈 공간을 완충재로 채워주세요.','협의한 방법으로 전달한 뒤 검수 결과와 정산 조건을 확인합니다.']],pickup:['출장 매입','대량 장비나 운반이 어려운 제품에 맞춰 방문 가능 지역과 일정을 협의합니다. 수량과 반출 현장 조건을 알려주세요.',['품목·수량·현장 위치를 알려주세요.','주차·엘리베이터·반출 동선과 저장장치 처리 방식을 협의합니다.','출장 일정·비용과 인수·검수·정산 조건을 확인합니다.']],quick:['카카오 T 퀵','퀵 배송 이용 전 담당자와 제품 운송 가능 여부, 수령 주소·시간 및 운송비 조건을 먼저 협의하세요.',['제품 종류·크기·수량과 작동 상태를 알려주세요.','수령 가능 시간과 운송 조건을 확인하고 보호 포장합니다.','협의 후 고객이 퀵 배송을 예약합니다. 이 화면에서는 예약·결제를 진행하지 않습니다.']]};
+// Approved purchase guidance: edit each method's intro, steps, prep and FAQ here.
+const guideData={
+  "visit": {
+    "title": "직접 방문",
+    "intro": "방문 일정과 주소를 먼저 확인한 뒤 제품을 직접 가져오는 방법입니다.",
+    "steps": [
+      "품목·수량·작동 상태를 알려 사전 상담합니다.",
+      "방문 날짜·시간과 정확한 주소를 확인합니다.",
+      "제품과 구성품을 전달하고 검수를 진행합니다.",
+      "검수 결과와 최종 금액에 동의한 뒤 협의한 방식으로 정산합니다."
+    ],
+    "prep": [
+      "제품·전원 어댑터 등 보유한 구성품을 함께 준비해 주세요.",
+      "중요한 자료를 백업하고 저장장치 처리 요청을 미리 알려주세요.",
+      "제품 목록과 신청 번호를 준비하면 접수 확인에 도움이 됩니다."
+    ],
+    "faq": [
+      [
+        "방문 전에 예약해야 하나요?",
+        "제품 수령과 검수 가능 여부를 확인할 수 있도록 방문 전 날짜와 시간을 협의해 주세요."
+      ],
+      [
+        "모델명이나 사양을 몰라도 되나요?",
+        "제품 전체와 모델 라벨 사진을 준비해 상담해 주세요. 알고 계신 수량과 작동 상태도 함께 알려주세요."
+      ],
+      [
+        "검수는 얼마나 걸리나요?",
+        "품목·수량·작동 상태에 따라 달라집니다. 방문 전에 예상 소요 시간을 상담해 주세요."
+      ],
+      [
+        "고장 난 제품은 어떻게 처리하나요?",
+        "불량 여부를 사전에 알려주세요. 매입 가능 여부를 확인하고, 제외 제품의 반환 또는 처리 방법은 고객과 협의합니다."
+      ],
+      [
+        "정산은 언제 되나요?",
+        "검수 후 최종 금액을 확인하고 협의한 일정과 방식으로 정산합니다. 방문 즉시 지급 여부는 사전에 확인해 주세요."
+      ]
+    ]
+  },
+  "parcel": {
+    "title": "택배 발송·수거",
+    "intro": "직접 택배를 보내거나, 상담 후 택배기사 방문 수거 가능 여부를 확인하는 방법입니다. 신청서 제출만으로 수거가 예약되지는 않습니다.",
+    "steps": [
+      "품목·수량·상태를 알려 상담하고 전달 방법·배송지·비용을 확인합니다.",
+      "제품별로 개별 보호 포장하고 박스 안의 빈 공간을 완충재로 채웁니다.",
+      "직접 발송은 협의한 주소로 보내고, 방문 수거는 예약 확정 안내를 받은 뒤 준비합니다.",
+      "입고 후 검수 결과와 최종 금액을 확인하고 협의한 방식으로 정산합니다."
+    ],
+    "prep": [
+      "부품끼리 부딪히지 않도록 나누어 포장하고 박스가 움직이지 않게 고정해 주세요.",
+      "신청 번호와 품목·수량 메모를 동봉해 주세요. 신청 번호가 없으면 담당자와 접수 확인 정보를 협의해 주세요.",
+      "생년월일·주민등록번호·비밀번호를 적어 보내지 마세요.",
+      "직접 발송 후 운송장 번호를 보관해 주세요."
+    ],
+    "faq": [
+      [
+        "어디로 보내면 되나요?",
+        "발송 전 담당자에게 정확한 수령 주소와 수령 가능 여부를 확인해 주세요. 확인되지 않은 주소로 먼저 보내지 마세요."
+      ],
+      [
+        "포장은 어떻게 하나요?",
+        "제품을 개별 보호 포장하고 튼튼한 박스와 충분한 완충재를 사용해 주세요. 무겁거나 파손 위험이 큰 제품은 포장 방법을 먼저 상담해 주세요."
+      ],
+      [
+        "배송비는 누가 부담하나요?",
+        "품목·수량·지역과 운송 방법에 따라 조건을 협의합니다. 선불·착불 및 비용 부담을 발송 전에 확인해 주세요."
+      ],
+      [
+        "택배기사 방문 수거도 가능한가요?",
+        "주소·포장 상태·물량을 알려 가능 여부와 일정을 상담해 주세요. 담당자의 예약 확정 안내를 받아야 수거가 진행됩니다."
+      ],
+      [
+        "입고 후 언제 정산되나요?",
+        "제품 검수 후 최종 금액에 동의한 뒤 협의한 일정으로 정산합니다. 예상 검수 기간은 발송 전에 확인해 주세요."
+      ],
+      [
+        "매입되지 않는 제품은 반송되나요?",
+        "검수 결과를 안내한 뒤 반송 여부·비용 또는 다른 처리 방법을 협의합니다. 고객의 의사를 확인해 진행합니다."
+      ]
+    ]
+  },
+  "pickup": {
+    "title": "출장 매입",
+    "intro": "기업·사무실·PC방 등의 여러 장비나 운반이 어려운 제품은 현장 조건을 확인해 출장 가능 여부를 상담합니다.",
+    "steps": [
+      "품목·수량·지역·작동 상태와 현장 사진을 준비해 상담합니다.",
+      "방문 가능 여부와 일정, 철거·운반 범위 및 비용을 협의합니다.",
+      "현장에서 제품과 인수 목록을 확인하고 협의한 방식으로 인계·검수합니다.",
+      "검수 결과와 최종 금액을 확인한 뒤 정산하고 협의한 거래 서류를 확인합니다."
+    ],
+    "prep": [
+      "장비 목록 또는 전체 사진과 대략적인 수량을 준비해 주세요.",
+      "주차·엘리베이터·층수·반출 동선과 현장 담당자를 확인해 주세요.",
+      "회사 장비는 반출 승인과 저장장치 처리 방식을 먼저 정해 주세요.",
+      "필요한 인수 내역·견적서 등 거래 서류를 상담 시 알려주세요."
+    ],
+    "faq": [
+      [
+        "소량도 출장 매입이 가능한가요?",
+        "품목·수량·장비 가치와 현장 조건을 확인한 뒤 안내합니다. 최소 수량은 상담해 주세요."
+      ],
+      [
+        "어느 지역까지 방문하나요?",
+        "현장 지역과 주소를 알려주시면 방문 가능 여부를 확인해 안내합니다."
+      ],
+      [
+        "출장비나 운송비가 있나요?",
+        "거리·물량·반출 조건에 따라 사전에 협의합니다. 방문 확정 전에 비용 부담을 확인해 주세요."
+      ],
+      [
+        "주말에도 방문할 수 있나요?",
+        "희망 날짜와 시간을 알려주세요. 운영 일정과 현장 조건을 확인한 뒤 가능 여부를 안내합니다."
+      ],
+      [
+        "철거와 운반도 해주나요?",
+        "필요한 작업 범위를 사진과 함께 알려주세요. 가능한 작업과 추가 비용 여부를 사전에 협의합니다."
+      ],
+      [
+        "기업 거래 서류를 받을 수 있나요?",
+        "필요한 서류 종류를 상담 시 알려주세요. 발급 가능 여부와 시점, 거래 처리 방법을 확인해 안내합니다."
+      ]
+    ]
+  },
+  "quick": {
+    "title": "카카오 T 퀵",
+    "intro": "YESMOA와 수령 조건을 먼저 협의한 뒤 고객이 카카오 T 앱에서 퀵을 접수해 제품을 보내는 방법입니다.",
+    "steps": [
+      "제품 종류·크기·수량을 알려 수령 가능 여부·주소·시간·비용 부담을 확인합니다.",
+      "제품을 개별 보호 포장하고 운송 중 움직이거나 충격받지 않도록 고정합니다.",
+      "협의한 조건에 맞춰 고객이 카카오 T 앱에서 퀵을 접수합니다.",
+      "도착 후 검수 결과와 최종 금액을 확인하고 협의한 방식으로 정산합니다."
+    ],
+    "prep": [
+      "보낼 제품의 크기·무게·수량과 포장 상태를 확인해 주세요.",
+      "담당자에게 확인한 수령 주소·연락처·시간을 준비해 주세요.",
+      "신청 번호와 품목·수량 메모를 함께 보내 접수 건을 확인할 수 있게 해주세요.",
+      "운송 수단과 서비스 이용 조건은 앱에서 확인하고 제품에 맞게 선택해 주세요."
+    ],
+    "faq": [
+      [
+        "어떻게 접수하나요?",
+        "먼저 YESMOA와 발송 조건을 협의한 뒤 고객이 카카오 T 앱에서 접수합니다. 이 웹페이지에서는 예약이나 결제를 진행하지 않습니다."
+      ],
+      [
+        "도착지는 무엇을 입력하나요?",
+        "담당자에게 확인한 수령 주소와 수령 담당 연락처를 사용해 주세요. 발송 전에 다시 확인해 주세요."
+      ],
+      [
+        "퀵 비용은 어떻게 결제하나요?",
+        "고객과 YESMOA가 비용 부담을 먼저 협의하고, 앱에서 제공하는 결제 조건을 확인해 진행해 주세요. 무료 운송은 사전 확인 없이 적용되지 않습니다."
+      ],
+      [
+        "어떤 제품을 보낼 수 있나요?",
+        "제품 크기·무게·수량과 파손 위험을 알려 상담해 주세요. 선택한 운송 서비스의 취급 가능 조건도 확인해야 합니다."
+      ],
+      [
+        "도착하면 바로 정산되나요?",
+        "도착 후 검수를 거쳐 최종 금액에 동의한 뒤 협의한 일정으로 정산합니다. 즉시 또는 당일 정산 여부는 발송 전에 확인해 주세요."
+      ]
+    ]
+  }
+};
 function closeGuide(){$('#request-guide-content').hidden=true;root.querySelectorAll('[data-guide]').forEach(b=>b.setAttribute('aria-expanded','false'));}
-root.querySelectorAll('[data-guide]').forEach(button=>button.onclick=()=>{const wasOpen=button.getAttribute('aria-expanded')==='true';closeGuide();if(wasOpen)return;const data=guideData[button.dataset.guide],panel=$('#request-guide-content');panel.querySelector('h2').textContent=data[0];panel.querySelector('p').textContent=data[1];panel.querySelector('ol').replaceChildren(...data[2].map(text=>{const li=document.createElement('li');li.textContent=text;return li;}));panel.hidden=false;button.setAttribute('aria-expanded','true');});
+root.querySelectorAll('[data-guide]').forEach(button=>button.onclick=()=>{
+ const wasOpen=button.getAttribute('aria-expanded')==='true';closeGuide();if(wasOpen)return;
+ const data=guideData[button.dataset.guide],panel=$('#request-guide-content');
+ panel.querySelector('h2').textContent=data.title;panel.querySelector('.guide-intro').textContent=data.intro;
+ for(const [selector,items] of [['.guide-steps',data.steps],['.guide-preparation',data.prep]])panel.querySelector(selector).replaceChildren(...items.map(text=>{const li=document.createElement('li');li.textContent=text;return li;}));
+ panel.querySelector('.guide-faq').replaceChildren(...data.faq.map(([question,answer])=>{const details=document.createElement('details'),summary=document.createElement('summary'),p=document.createElement('p');summary.textContent='Q. '+question;p.textContent='A. '+answer;details.append(summary,p);return details;}));
+ panel.hidden=false;button.setAttribute('aria-expanded','true');
+});
 $('#close-request-guide').onclick=closeGuide;
 const link=document.createElement('a');link.href='#requests';link.textContent='매입 신청';document.querySelector('.nav-menu').append(link);
 $('#new-request').onclick=()=>{status('');location.hash='requests/new';};root.querySelectorAll('.back-list').forEach(b=>b.onclick=()=>{returnToList();});
