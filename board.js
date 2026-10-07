@@ -5,6 +5,7 @@ root.innerHTML=`<div class="request-list-heading"><div class="request-heading-co
 document.querySelector('.site-nav').after(root);
 const originals=[...document.body.children].filter(el=>el!==root&&el.tagName!=='SCRIPT'&&!el.matches('.site-nav,dialog'));
 const $=s=>root.querySelector(s);const status=text=>$('#board-status').textContent=text;
+let priceManager;
 let client,user=null,page=1,total=0,search='',loading=false,isAdmin=false,trash=false,selectedId=null,reloadPending=false,editingId=null,detailData=null,authRevision=0,mutationPending=false;
 const completion=document.createElement('dialog');
 completion.className='request-completion';
@@ -57,14 +58,16 @@ new ResizeObserver(updateNavigationOffset).observe(document.querySelector('.site
 new ResizeObserver(updateNavigationOffset).observe($('.request-list-heading'));
 function view(which){root.classList.toggle('is-writing',which==='write');root.classList.toggle('is-listing',which==='list');$('#new-request').hidden=which!=='list'||adminRoute();updateNavigationOffset();for(const id of ['list','write','detail','unlock','edit'])$('#request-'+id).hidden=id!==which;root.querySelector('h1').focus();}
 function updateAdminScreen(){
+ priceManager?.sync();
  const admin=adminRoute();if(admin)$('#request-list').before(authBox);else root.append(authBox);root.classList.toggle('is-admin',admin);authBox.hidden=!admin;customerLink.hidden=!admin;
+ if(admin&&$('#price-settings'))authBox.after($('#price-settings'));
  root.querySelector('h1').textContent=admin?'매입 신청 관리':'매입 신청';
  $('#admin-tools').hidden=!canManage();smsPanel.hidden=!canManage();
  $('#show-admin').hidden=admin;$('#admin-auth').hidden=!admin;
  $('#new-request').hidden=admin||$('#request-list').hidden;
  if(admin&&!isAdmin)for(const id of ['list','write','detail','unlock','edit'])$('#request-'+id).hidden=true;
 }
-function route(){const guideDialog=document.querySelector('dialog.purchase-dialog');if(guideDialog?.open)guideDialog.close();closeGuide();const open=location.hash.startsWith('#requests')||adminRoute();root.hidden=!open;originals.forEach(el=>{el.hidden=open;});
+function route(){if(priceManager&&!priceManager.guardRoute())return;const guideDialog=document.querySelector('dialog.purchase-dialog');if(guideDialog?.open)guideDialog.close();closeGuide();const open=location.hash.startsWith('#requests')||adminRoute();root.hidden=!open;originals.forEach(el=>{el.hidden=open;});
  $('#detail-content').replaceChildren();$('#edit-fields').replaceChildren();detailData=null;editingId=null;selectedId=null;trash=false;page=1;status('');
  if(!adminRoute()){smsPanel.open=false;$('#sms-form').reset();$('#sms-logs').replaceChildren();}
  if(open){view(location.hash==='#requests/new'?'write':'list');updateAdminScreen();if(location.hash!=='#requests/new')loadList();root.scrollIntoView();}}
@@ -283,7 +286,7 @@ $('#legacy-login').onclick=()=>{location.hash='admin';};
 $('#login-form').onsubmit=async e=>{e.preventDefault();if(!client)return;const b=e.target.querySelector('button');b.disabled=true;try{const url=new URL(location.href);url.hash='';const {error}=await client.auth.signInWithOtp({email:$('#login-email').value.trim(),options:{emailRedirectTo:url.href}});if(error)throw error;status('로그인 링크를 이메일로 보냈습니다. 메일의 링크를 열어주세요.');}catch(error){status(friendly(error));}finally{b.disabled=false;}};
 $('#logout').onclick=async()=>{const {error}=await client.auth.signOut();if(error){status('로그아웃에 실패했습니다. 다시 시도해주세요.');return;}$('.request-form').reset();$('#detail-content').replaceChildren();view('list');trash=false;page=1;updateAdminScreen();loadList();status('로그아웃했습니다.');};
 $('.request-form').onsubmit=async e=>{e.preventDefault();const form=e.target;let valid=true;for(const input of form.elements){if(!input.name)continue;const ok=input.checkValidity()&&(!input.required||input.type==='checkbox'||input.value.trim().length>0);input.setAttribute('aria-invalid',String(!ok));$('#'+input.name+'-error').textContent=ok?'':(input.name==='consent'?'개인정보 수집·이용에 동의해주세요.':'올바른 값을 입력해주세요.');if(!ok&&valid){(input.hidden?$('#request-title-choice'):input).focus();valid=false;}}const pass=form.elements.password,check=form.elements.password_confirm;if(pass.value.length<4){$('#password-error').textContent='비밀번호를 4자 이상 입력해주세요.';pass.setAttribute('aria-invalid','true');valid=false;}if(pass.value!==check.value){$('#password_confirm-error').textContent='비밀번호가 일치하지 않습니다.';check.setAttribute('aria-invalid','true');valid=false;}if(new TextEncoder().encode(pass.value).length>72){$('#password-error').textContent='비밀번호는 UTF-8 기준 72바이트 이하로 입력해주세요.';valid=false;}if(!valid)return;if(!client){status('접수 기능을 불러오는 중입니다. 잠시 후 다시 시도해주세요.');return;}const b=$('#request-submit');if(b.disabled)return;b.disabled=true;const payload={};for(const [name]of fields)payload[name]=form.elements[name].value.trim()||null;payload.password=form.elements.password.value;delete payload.password_confirm;payload.consent=true;try{const {data,error}=await client.rpc('yesmoa_submit_request',{p_data:payload});if(error)throw error;if(!data)throw new Error('No saved request');form.reset();status('매입 신청이 정상적으로 접수되었습니다.');page=1;search='';completion.showModal();}catch(error){status(friendly(error)+' 입력 내용은 유지됩니다.');}finally{b.disabled=false;}};
-async function init(){for(const prefix of ['#requests','#admin'])if(location.hash.startsWith(prefix+'#'))history.replaceState(null,'',location.pathname+location.search+location.hash.slice(prefix.length));const returningFromEmail=location.hash.includes('access_token=')||location.search.includes('code=');if(!window.supabase){status('로그인 기능을 불러오지 못했습니다. 새로고침해주세요.');return;}client=window.supabase.createClient('https://rkjifgvzmetzdnawehnt.supabase.co','sb_publishable_Z_M0Q7RhYEVTTsEdaW1wnw_4qP5adyy',{auth:{persistSession:true,detectSessionInUrl:true}});function account(session){
+async function init(){for(const prefix of ['#requests','#admin'])if(location.hash.startsWith(prefix+'#'))history.replaceState(null,'',location.pathname+location.search+location.hash.slice(prefix.length));const returningFromEmail=location.hash.includes('access_token=')||location.search.includes('code=');if(!window.supabase){status('로그인 기능을 불러오지 못했습니다. 새로고침해주세요.');return;}client=window.supabase.createClient('https://rkjifgvzmetzdnawehnt.supabase.co','sb_publishable_Z_M0Q7RhYEVTTsEdaW1wnw_4qP5adyy',{auth:{persistSession:true,detectSessionInUrl:true}});priceManager=window.YESMOA_PRICES.mount(root,{client,canManage});function account(session){
  const revision=++authRevision;
  user=session?.user||null;isAdmin=false;trash=false;
  $('#account').textContent=user?'로그인 완료 · 관리자 권한 확인 중 · '+user.email:'로그인되지 않았습니다. 이메일의 로그인 링크를 열어주세요.';
