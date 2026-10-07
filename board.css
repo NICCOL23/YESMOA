@@ -49,3 +49,9 @@ body > [hidden] { display: none !important; }
  .nav-menu{justify-content:center;gap:8px 14px;align-content:start}
  .nav-menu a{padding:8px 0}
 }
+
+.request-board .title-help {font-size:12px;color:#596b78;margin:6px 0 0;}
+.request-board input[hidden] {display:none;}
+.request-board .title-help {line-height:1.3;margin-top:4px;}
+.request-board .request-information {row-gap:6px;}
+.request-board .request-privacy {margin-top:10px;padding-top:10px;padding-bottom:10px;}
