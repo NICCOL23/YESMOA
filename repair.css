@@ -5,3 +5,20 @@
 
 
 body.repair-page .repair-section{margin-top:calc(var(--request-nav-bottom, 110px) + 16px);min-height:70vh}body.repair-page .repair-section{scroll-margin-top:calc(var(--request-nav-bottom, 110px) + 16px)}
+/* Shared compact layout for repair and pre-sale guidance. */
+.repair-section,.security-summary{padding:20px 24px;scroll-margin-top:calc(var(--request-nav-bottom,110px) + 16px)}
+.repair-shell,.security-shell{width:min(1200px,100%);max-width:1200px;margin:0 auto;grid-template-columns:minmax(0,clamp(330px,43vh,420px)) minmax(0,1fr);gap:36px;align-items:center;padding-top:0;border-top:0}
+.repair-image,.security-image{width:100%;aspect-ratio:3/2;margin:0;border-radius:16px;overflow:hidden;background:#eef8f5}
+.repair-image,.security-image img{height:100%;object-fit:contain;object-position:center}
+.security-image img{width:100%;aspect-ratio:3/2;filter:none}
+.security-image::after{display:none}
+.repair-copy,.security-copy{min-width:0;font-family:inherit}
+.repair-copy h2,.security-copy h2{font-family:inherit;font-size:28px;font-weight:800;line-height:1.3;letter-spacing:-.025em;margin:8px 0 12px;word-break:keep-all}
+.repair-copy p,.security-copy .security-summary-text{font-family:inherit;font-size:15px;font-weight:400;line-height:1.5;letter-spacing:-.015em;color:var(--muted);margin:0 0 10px;word-break:keep-all}
+.repair-copy .repair-eyebrow,.security-copy .security-eyebrow{font-size:12px;font-weight:700;line-height:1.2;letter-spacing:.03em;color:var(--green);margin:0 0 8px}
+.repair-actions{margin:14px 0 8px;gap:10px}
+.repair-copy small{font-size:12px;line-height:1.5;letter-spacing:-.01em}
+.security-points{gap:6px;margin:12px 0}
+.security-points li{padding:6px 9px;font-weight:600;line-height:1.4}
+@media(max-width:900px){.repair-section,.security-summary{padding:20px 16px}.repair-shell,.security-shell{grid-template-columns:1fr;gap:18px}.repair-image,.security-image{width:100%;max-width:420px;margin:0 auto}.repair-copy h2,.security-copy h2{font-size:24px}.repair-copy p,.security-copy .security-summary-text{font-size:15px}}
+.repair-shell > .repair-image{height:auto;aspect-ratio:3/2;object-fit:contain}
