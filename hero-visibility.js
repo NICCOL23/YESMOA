@@ -15,7 +15,8 @@
       // Recalculate fade offsets only after the previously hidden canvas has layout.
       swiper.update();
       swiper.slideTo(swiper.activeIndex, 0, false);
-      swiper.updateAutoHeight(0);
+      // The hero uses CSS viewport heights; autoHeight creates a zero-height cycle after hiding.
+      swiper.wrapperEl.style.removeProperty('height');
       if (!element.matches(':hover')) swiper.autoplay?.start();
     });
   };
