@@ -30,3 +30,10 @@ body.repair-page .repair-section{margin-top:calc(var(--request-nav-bottom, 110px
 .seller-eyebrow{font-size:12px;font-weight:700;line-height:1.2;letter-spacing:.03em;margin:0 0 8px}
 .seller-lead{font-family:inherit;font-size:15px;font-weight:400;line-height:1.5;letter-spacing:-.015em;margin:12px 0 0;word-break:keep-all}
 @media(max-width:900px){.seller-section{padding-top:24px}.seller-head h2{font-size:24px}}
+/* Align card copy rows while keeping text height flexible. */
+@media(min-width:901px){.seller-grid{grid-template-rows:176px auto auto auto auto;row-gap:0}.seller-card{display:grid;grid-row:span 5;grid-template-rows:subgrid}.seller-copy{display:grid;grid-row:span 4;grid-template-rows:subgrid}}
+.seller-copy{padding:22px 24px 20px}
+.seller-copy p{font-family:inherit;font-size:15px;font-weight:400;line-height:1.5;letter-spacing:-.015em;margin:14px 0 12px}
+.seller-copy ul{font-family:inherit;font-size:14px;font-weight:400;line-height:1.5;letter-spacing:-.015em;margin:0;padding:0}
+.seller-copy li+li{margin-top:4px}
+@media(max-width:900px){.seller-card,.seller-copy{display:block}.seller-copy{padding:20px}}
