@@ -2143,3 +2143,6 @@ h1 {
 
 /* Keep the puncher contact point visible in the wide video card */
 .service-section .sample-video.puncher-focus{object-fit:contain;object-position:center;background:#102f42}
+
+/* Prioritize the HDD contact point in the puncher frame */
+.service-section video.sample-video[src*="yeszero-hdd-puncher"]{object-fit:cover!important;object-position:center 100%!important}
