@@ -2150,3 +2150,6 @@ h1 {
 /* New portrait frame for the puncher video: keep the entire HDD and bit in view */
 .service-section .video-frame:has(.puncher-focus){display:flex;align-items:center;justify-content:center}
 .service-section video.sample-video.puncher-focus{width:auto!important;height:100%!important;max-width:100%!important;margin:0 auto;object-fit:contain!important;object-position:center!important;background:#102f42!important}
+
+/* The new framed puncher export is already 16:9; show the complete frame */
+.service-section video.sample-video[src*="yeszero-hdd-puncher-drilling-focus"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:contain!important;object-position:center!important;background:#102f42!important}
