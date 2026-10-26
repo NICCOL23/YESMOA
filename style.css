@@ -2140,3 +2140,6 @@ h1 {
 .service-section .video-source[aria-selected="true"]{border-color:#397c8c;background:#397c8c;color:#fff}
 .service-section .video-source:focus-visible{outline:2px solid #0f766e;outline-offset:2px}
 @media(max-width:900px){.service-section .video-text{gap:5px}.service-section .video-switcher{gap:3px}.service-section .video-source{padding:5px 7px;font-size:10px}}
+
+/* Keep the puncher contact point visible in the wide video card */
+.service-section .sample-video.puncher-focus{object-position:center 72%}
