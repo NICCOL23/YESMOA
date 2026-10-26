@@ -2165,3 +2165,6 @@ h1 {
 .service-section .video-source{font-size:12px;font-weight:700;padding:6px 10px;line-height:1.15}
 .service-section video.sample-video[src*="yesmoa-hdd-puncher-wide"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important;background:#102f42!important}
 @media(max-width:900px){.service-section .video-source{font-size:12px;padding:6px 9px}}
+
+/* Final puncher frame: preserve the lower HDD contact point instead of cropping it. */
+.service-section video.sample-video[src*="yesmoa-hdd-puncher-drilling-focus-y650"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:contain!important;object-position:center!important;background:#102f42!important}
