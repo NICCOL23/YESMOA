@@ -120,11 +120,14 @@
           </article>
 
           <article class="card video-card">
-<div class="video-text"><h2>데이터 파기 영상</h2><a href="https://peach.blender.org/about/" title="Big Buck Bunny · 2008 Blender Foundation · CC BY 3.0 · 30초 발췌 샘플" target="_blank" rel="noopener">샘플 · © Blender Foundation ↗</a></div>
-<div class="video-frame" aria-label="공개 샘플 영상 · Big Buck Bunny">
-<video class="sample-video" autoplay muted loop playsinline preload="metadata" poster="https://raw.githubusercontent.com/bower-media-samples/big-buck-bunny-480p-30s/master/poster.jpg" aria-label="Big Buck Bunny 공개 샘플"><source src="https://raw.githubusercontent.com/bower-media-samples/big-buck-bunny-480p-30s/master/video.mp4" type="video/mp4"></video>
+<div class="video-text"><h2>데이터 파기 영상</h2><div class="video-switcher" role="tablist" aria-label="데이터 파기 장비 선택">
+<button type="button" class="video-source active" role="tab" aria-selected="true" data-video-src="assets/yeszero-hdd-cutter.mp4" data-video-label="YESZERO HDD 절단 장비">절단 장비</button>
+<button type="button" class="video-source" role="tab" aria-selected="false" data-video-src="assets/yeszero-hdd-puncher.mp4" data-video-label="YESZERO HDD 천공 장비">천공 장비</button>
+</div></div>
+<div class="video-frame" aria-label="YESZERO 실제 데이터 파기 영상">
+<video class="sample-video" autoplay muted loop playsinline preload="metadata" poster="assets/data-security.png" aria-label="YESZERO HDD 절단 장비"><source src="assets/yeszero-hdd-cutter.mp4" type="video/mp4"></video>
 <div class="video-controls"><button type="button" class="video-toggle" aria-label="영상 일시정지">Ⅱ</button><input class="video-seek" type="range" min="0" max="100" value="0" step="0.1" aria-label="영상 재생 위치"><span class="video-time">0:00</span><span class="video-muted">무음</span><button type="button" class="video-full" aria-label="영상 전체 화면">⛶</button></div>
-<p class="video-error" hidden>영상을 불러오지 못했습니다. <a href="https://raw.githubusercontent.com/bower-media-samples/big-buck-bunny-480p-30s/master/video.mp4" target="_blank" rel="noopener">샘플 영상 직접 열기 ↗</a></p>
+<p class="video-error" hidden>영상을 불러오지 못했습니다. 재생 버튼을 눌러 다시 시도해 주세요.</p>
 </div></article>
         </div>
       </div>
