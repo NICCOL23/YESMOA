@@ -2155,4 +2155,4 @@ h1 {
 .service-section video.sample-video[src*="yeszero-hdd-puncher-drilling-focus"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:contain!important;object-position:center!important;background:#102f42!important}
 
 /* Wide reframed puncher export: keep HDD and drilling bit fully visible */
-.service-section video.sample-video[src*="yeszero-hdd-puncher-drilling-wide"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:contain!important;object-position:center!important;background:#102f42!important}
+.service-section video.sample-video[src*="yeszero-hdd-puncher-drilling-wide"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important;background:#102f42!important}
