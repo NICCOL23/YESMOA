@@ -2159,3 +2159,9 @@ h1 {
 
 /* Deployed-path wide puncher frame: fill the card and keep the HDD action large */
 .service-section video.sample-video[src*="wide-frame"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important;background:#102f42!important}
+
+
+/* Final YESZERO equipment selector readability and wide puncher frame */
+.service-section .video-source{font-size:12px;font-weight:700;padding:6px 10px;line-height:1.15}
+.service-section video.sample-video[src*="yesmoa-hdd-puncher-wide"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important;background:#102f42!important}
+@media(max-width:900px){.service-section .video-source{font-size:12px;padding:6px 9px}}
