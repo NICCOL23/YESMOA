@@ -2156,3 +2156,6 @@ h1 {
 
 /* Wide reframed puncher export: keep HDD and drilling bit fully visible */
 .service-section video.sample-video[src*="yeszero-hdd-puncher-drilling-wide"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important;background:#102f42!important}
+
+/* Deployed-path wide puncher frame: fill the card and keep the HDD action large */
+.service-section video.sample-video[src*="wide-frame"]{width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important;background:#102f42!important}
